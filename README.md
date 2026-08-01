@@ -14,11 +14,13 @@
 │  Docker: MinerU-Pro · New API · Knowhere          │
 │  Termix · VoiceBox · BioHermes                    │
 │  Minecraft 模组服 · QEMU VM · Proxmox             │
-└───────────────┬──────────────────┬────────────────┘
-                │ EasyTier 自建网格  │
-                ▼                  ▼
-      genexis 节点 · 设备侧     校园实验网 10.123.45.x
-      ● 在线                    ○ 不在线
+└──────┬──────────────────────┬────────────────────┘
+       │ ssh                  │ 校园实验网 10.123.45.x
+       ▼                      ▼
+  AI 工作站 adam-Workstation   zhidao 工作机 · pjrz 评测
+  双 RTX PRO 6000 · GenMind    ○ 到校才上线
+  ● 在线
+       └── EasyTier 网格 ── genexis 节点 ● / 其余随用随开
 </pre>
 
 <h1 style="font-family:'Songti SC','Noto Serif CJK SC','Source Han Serif SC',Georgia,serif;font-weight:700;color:#e8eef7;margin:18px 0 6px 0;font-size:30px">Adam</h1>
@@ -80,10 +82,10 @@ Docker 服务群：MinerU-Pro 文档解析、New API 模型网关、Knowhere RAG
 </td>
 <td style="border:1px solid #1f2c46;background:#111a2e;border-radius:8px;padding:12px 14px;width:50%;vertical-align:top">
 <div style="font-family:'Songti SC','Noto Serif CJK SC',Georgia,serif;font-weight:700;color:#e8eef7">
-<span style="color:#566178">○</span> 校园实验网 <span style="font-family:ui-monospace,Consolas,monospace;font-weight:400;color:#5aa9e6;font-size:12px">10.123.45.x</span>
+<span style="color:#e8a33d">●</span> AI 工作站 <span style="font-family:ui-monospace,Consolas,monospace;font-weight:400;color:#5aa9e6;font-size:12px">adam-Workstation · 双 RTX PRO 6000 Blackwell</span>
 </div>
 <div style="color:#9aa7bd;margin-top:6px;line-height:1.7;font-family:'PingFang SC','Noto Sans CJK SC','Microsoft YaHei',sans-serif">
-竞赛评测服务器（pjrz）与知道项目组（zhidao）工作机所在的实验室网段：校内 AI 教育改造、大工教案助手等内网工具都跑在这里，在校时也用它做训练、评测与数据搬运。离开校园后不可达，属于"到校才上线"的节点。
+校园网内的训练与推理机，两块 96GB 显存。GenMind 基因组医学竞赛的 TCGA 批量流水线跑在这里；也跑 SGLang 推理与 Termix 远程终端会话，unsloth 3TB 数据盘挂着训练集。通过服务器 .9 间接可达。
 </div>
 </td>
 </tr>
