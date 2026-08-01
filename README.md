@@ -24,7 +24,7 @@
 <h1 style="font-family:'Songti SC','Noto Serif CJK SC','Source Han Serif SC',Georgia,serif;font-weight:700;color:#e8eef7;margin:18px 0 6px 0;font-size:30px">Adam</h1>
 
 <p style="font-family:'PingFang SC','Noto Sans CJK SC','Microsoft YaHei',sans-serif;color:#7d8aa0;margin:0 0 4px 0;font-size:14px">
-把 LLM 塞进旧系统、行业流程和真实业务的人。机器学习竞赛、文档智能、生物信息、自建多机网格。
+把 LLM 塞进旧系统、行业流程和真实业务的人。大连理工大学 · 生物信息学；机器学习竞赛、文档智能、生物信息、自建多机网格。
 </p>
 
 <p style="font-family:ui-monospace,Consolas,monospace;color:#5aa9e6;margin:6px 0 0 0;font-size:13px">
@@ -32,6 +32,17 @@
 </p>
 
 </div>
+
+---
+
+## 关于
+
+| | |
+|---|---|
+| **教育** | 大连理工大学（2023-2027）· 生物信息学 · 校人工智能社团技术负责人 |
+| **科研** | CCF 大连会长齐恒教授指导，LLM 数据算法优化与 AI 教育应用，两项软件著作权；牛津大学 Genexis 团队，多组学数据预训练模型微调与 BioClaw 自动化 AGENT SaaS |
+| **荣誉** | 科大讯飞医疗咨询问答优化算法挑战赛 冠军（队长）· 信通院"光华杯"智慧教育专题赛 全国二等奖 · 大创国家级 ×2（队长）· 美赛 H 奖 · 软著 2 项 |
+| **技能** | Python · Go · LLM 微调 · RAG 应用 · Agent 开发 · Docker · Linux · Claude Code |
 
 ---
 
@@ -72,7 +83,7 @@ Docker 服务群：MinerU-Pro 文档解析、New API 模型网关、Knowhere RAG
 <span style="color:#566178">○</span> 校园实验网 <span style="font-family:ui-monospace,Consolas,monospace;font-weight:400;color:#5aa9e6;font-size:12px">10.123.45.x</span>
 </div>
 <div style="color:#9aa7bd;margin-top:6px;line-height:1.7;font-family:'PingFang SC','Noto Sans CJK SC','Microsoft YaHei',sans-serif">
-竞赛评测服务器（pjrz）与 zhidao 系列工作机所在的实验室网段，在校时用于训练、评测与数据搬运。离开校园后不可达，属于"到校才上线"的节点。
+竞赛评测服务器（pjrz）与知道项目组（zhidao）工作机所在的实验室网段：校内 AI 教育改造、大工教案助手等内网工具都跑在这里，在校时也用它做训练、评测与数据搬运。离开校园后不可达，属于"到校才上线"的节点。
 </div>
 </td>
 </tr>
