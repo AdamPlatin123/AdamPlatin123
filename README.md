@@ -67,7 +67,7 @@
 <span style="color:#e8a33d">●</span> 计算服务器 <span style="font-family:ui-monospace,Consolas,monospace;font-weight:400;color:#5aa9e6;font-size:12px">NF5568M4 · Ubuntu 24.04</span>
 </div>
 <div style="color:#9aa7bd;margin-top:6px;line-height:1.7;font-family:'PingFang SC','Noto Sans CJK SC','Microsoft YaHei',sans-serif">
-Docker 服务群：MinerU-Pro 文档解析、New API 模型网关、Knowhere RAG 栈、Termix WebGL 终端、VoiceBox；BioHermes 数据代理；模组版 Minecraft 服；QEMU 虚拟机（arkclaw）；Proxmox VE 9.2 实验；单细胞 pbmc 分析；课程笔记（manim 动画化）。
+Docker 服务群：MinerU-Pro 文档解析、New API 模型网关、Knowhere RAG 栈、Termix WebGL 终端、VoiceBox；BioHermes 计算生物学 Agent（MinerU 挑战赛作品）；模组版 Minecraft 服；QEMU 虚拟机（arkclaw）；Proxmox VE 9.2 实验；单细胞 pbmc 分析；课程笔记（manim 动画化）。
 </div>
 </td>
 </tr>
@@ -107,7 +107,7 @@ Docker 服务群：MinerU-Pro 文档解析、New API 模型网关、Knowhere RAG
 <td style="border:1px solid #1f2c46;background:#111a2e;border-radius:8px;padding:10px 14px;width:50%;vertical-align:top">
 <a href="https://github.com/AdamPlatin123/BioHermes" style="color:#e8a33d;text-decoration:none;font-weight:700">BioHermes</a>
 <span style="color:#7d8aa0;font-family:ui-monospace,Consolas,monospace;font-size:12px"> Python</span>
-<div style="color:#9aa7bd;margin-top:4px;line-height:1.6">MinerU 驱动的数据代理，Judge→Select→Execute→Verify 四段架构，配套 web 前端。</div>
+<div style="color:#9aa7bd;margin-top:4px;line-height:1.6">2026 MinerU 数据智能挑战赛赛道二参赛作品。基于 hermes-agent 的计算生物学 Agent：Judge→Select→Execute→Verify 四层闭环（非 ReAct/LangGraph），75 个 OpenScience 技能，Podman 沙箱 + 溯源 + L2 自愈，配套 React SPA。</div>
 </td>
 </tr>
 <tr>
@@ -169,7 +169,7 @@ Docker 服务群：MinerU-Pro 文档解析、New API 模型网关、Knowhere RAG
 |---|---|
 | **行业项目** | 中国建筑合同审查项目（contract-review：合同文档解析 + 审查工作台，FastAPI + Knowhere RAG + MinerU 文档解析）；LCCPA 肺癌症状预警处置系统（企业微信 H5 问卷 + 规则引擎 + GPU OCR，Fastify + PGlite + React 19）；Tron-Copilot 产品文档；OPC-taskboard（给"一人公司"做的交付凭证层，AGPL 生成器 + MIT 规范） |
 | **竞赛** | GenMind 基因组医学；AerogelAI 气动预测；CP-TCG / KDBURI / LIBS-CBCV；FullAutoAgent 全自动参赛系统（会话备份含 68MB 巨型坐庄监控会话） |
-| **学术** | 冷启动-学术（不确定性研究论文，LaTeX 全流程）；pbmc 单细胞转录组分析；OncoRNA-Align；AI教育（双轨大学深度研究报告、deep-research-studio） |
+| **学术** | 冷启动-学术（不确定性研究论文，LaTeX 全流程）；pbmc 单细胞转录组分析；OncoRNA-Align；biohermes（计算生物学 Agent，75 个 OpenScience 技能，PBMC3k 无人值守验收）；AI教育（双轨大学深度研究报告、deep-research-studio） |
 | **基建** | run-ml-competition（竞赛流水线 harness，agents/SKILL.md）；system-image（vm-deploy + RustDesk 部署）；easytier-test；GPU-research（Qwen3.6-MinerU 选型调研） |
 | **玩** | LegacyCode（Windows 3.2 复古项目）；chatlog（微信数据库读取 + MCP 服务）；3D 打印（Bambu N30 电机座参数化模型）；Minecraft 模组服 |
 
