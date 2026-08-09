@@ -1,8 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+Adam.+Putting+LLMs+into+old+systems,+industry+flows+and+real+business" alt="Hi"/>
   <p>
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
-    <strong>把 LLM 塞进旧系统、行业流程和真实业务的人。</strong>
+    👋 <strong>把 LLM 塞进旧系统、行业流程和真实业务的人。</strong>
   </p>
 
   <p>
@@ -63,15 +62,15 @@
                         ▼
 ┌──────────────────────────────────────────────────┐
 │  计算服务器   NF5568M4 · Ubuntu 24.04             │
-│  Docker: MinerU-Pro · New API · Knowhere          │
-│  Termix · VoiceBox · BioHermes                    │
-│  Minecraft 模组服 · QEMU VM · Proxmox             │
+│  Docker 服务群：文档解析 · 模型网关 · 知识库      │
+│  远程终端 · 语音 · 数据代理                       │
+│  虚拟化实验 · 自托管服务 · 数据分析               │
 └──────┬──────────────────────┬────────────────────┘
        │ 加密隧道              │ 校园实验网 10.123.45.x
        ▼                      ▼
-  管理堡垒机 + GPU 工作站集群   zhidao 工作机 · pjrz 评测
+  管理堡垒机 + GPU 工作站集群   实验网工作机 · 评测服务
   显存总量约 400GB · ● 在线     ○ 到校才上线
-       └── EasyTier 网格 ── genexis 节点 ● / 其余随用随开
+       └── EasyTier 网格 ── 设备节点 ● / 其余随用随开
 ```
 
 > 多机舰队，一台笔记本干日常，一台服务器跑服务，中间用自研 EasyTier 网格串起来。状态为最近一次巡检记录。
@@ -91,7 +90,7 @@
 <span style="color:#e8a33d">●</span> 计算服务器 <span style="font-family:ui-monospace,Consolas,monospace;font-weight:400;color:#5aa9e6;font-size:12px">NF5568M4 · Ubuntu 24.04</span>
 </div>
 <div style="color:#9aa7bd;margin-top:6px;line-height:1.7;font-family:'PingFang SC','Noto Sans CJK SC','Microsoft YaHei',sans-serif">
-Docker 服务群：MinerU-Pro 文档解析、New API 模型网关、Knowhere RAG 栈、Termix WebGL 终端、VoiceBox；BioHermes 计算生物学 Agent（MinerU 挑战赛作品）；模组版 Minecraft 服；QEMU 虚拟机（arkclaw）；Proxmox VE 9.2 实验；单细胞 pbmc 分析；课程笔记（manim 动画化）。
+Docker 服务群：文档解析、模型网关、知识库、远程终端、语音与数据代理等业务容器；虚拟化实验与自托管服务；数据分析流水线。
 </div>
 </td>
 </tr>
@@ -101,7 +100,7 @@ Docker 服务群：MinerU-Pro 文档解析、New API 模型网关、Knowhere RAG
 <span style="color:#e8a33d">●</span> 自建网格 <span style="font-family:ui-monospace,Consolas,monospace;font-weight:400;color:#5aa9e6;font-size:12px">EasyTier 10.144.144.x</span>
 </div>
 <div style="color:#9aa7bd;margin-top:6px;line-height:1.7;font-family:'PingFang SC','Noto Sans CJK SC','Microsoft YaHei',sans-serif">
-笔记本、服务器、设备通过自研 EasyTier mesh 互通，随时随地上线即达。设备侧节点 <span style="font-family:ui-monospace,Consolas,monospace;color:#5aa9e6">genexis</span> 在线；其余节点随用随开。网格本身也是开源项目：<a href="https://github.com/AdamPlatin123/genexis-easytier">genexis-easytier</a>。
+笔记本、服务器、设备通过自研 EasyTier mesh 互通，随时随地上线即达。设备侧节点在线；其余节点随用随开。网格本身也是开源项目：<a href="https://github.com/AdamPlatin123/genexis-easytier">genexis-easytier</a>。
 </div>
 </td>
 <td style="border:1px solid #1f2c46;background:#111a2e;border-radius:8px;padding:12px 14px;width:50%;vertical-align:top">
