@@ -1,6 +1,58 @@
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+Adam.+Putting+LLMs+into+old+systems,+industry+flows+and+real+business" alt="Hi"/>
+  <p>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
+    <strong>把 LLM 塞进旧系统、行业流程和真实业务的人。</strong>
+  </p>
 
-<pre style="font-family:ui-monospace,SFMono-Regular,Consolas,monospace;font-size:13px;color:#7d8aa0;background:#0b1020;line-height:1.35;padding:14px 18px;border:1px solid #1f2c46;border-radius:8px;display:inline-block;text-align:left">
+  <p>
+    <code>🐼 大连理工大学 · 生物信息学</code>
+    <code>📍 AI 全栈 · 文档智能 · 自建多机网格</code>
+  </p>
+
+  <p>
+    34 公开仓库 · 顶流 318★ · 11 关注者 · Pull Shark · YOLO · Starstruck ×2
+  </p>
+</div>
+
+---
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+#### 🎓 教育 · 科研
+
+- **大连理工大学**（2023-2027）· 生物信息学 · 校人工智能社团技术负责人
+- **CCF 大连会长齐恒教授课题组**：LLM 数据算法优化与 AI 教育应用，两项软件著作权
+- **牛津大学 Genexis 团队**：多组学数据预训练模型微调 · BioClaw 自动化 AGENT SaaS
+- **中建二局一建有限公司**：AI 应用开发，本地大模型长文本处理工具与服务器基础设施优化
+
+</td>
+<td valign="top" width="48%">
+
+#### 🏆 荣誉 · 专利
+
+> 📄 [View Awards →](https://github.com/AdamPlatin123/AdamPlatin123/blob/main/AWARDS.md)
+
+- **科大讯飞医疗咨询问答优化算法挑战赛 冠军**（队长）
+- **全国大学生计算机大赛 AI 赛道 全国三等奖**（队长）
+- **信通院"光华杯"智慧教育专题赛 全国二等奖**
+- 大创国家级 ×2（队长）· 美赛 H 奖 · 软著 2 项 · **专利 2 项在审**
+
+</td>
+</tr>
+</table>
+
+<p>
+  <code>Python</code> <code>Go</code> <code>LLM 微调</code> <code>RAG 应用</code> <code>Agent 开发</code> <code>Docker</code> <code>Linux</code> <code>Claude Code</code>
+</p>
+
+---
+
+## 机器档案
+
+```
 ┌──────────────────────────────────────────────────┐
 │  日常笔记本   Legion Y9000P · Linux Mint          │
 │  v2rayA 代理 · ZeroTier · rEFInd · WPS            │
@@ -20,34 +72,7 @@
   管理堡垒机 + GPU 工作站集群   zhidao 工作机 · pjrz 评测
   显存总量约 400GB · ● 在线     ○ 到校才上线
        └── EasyTier 网格 ── genexis 节点 ● / 其余随用随开
-</pre>
-
-<h1 style="font-family:'Songti SC','Noto Serif CJK SC','Source Han Serif SC',Georgia,serif;font-weight:700;color:#e8eef7;margin:18px 0 6px 0;font-size:30px">Adam</h1>
-
-<p style="font-family:'PingFang SC','Noto Sans CJK SC','Microsoft YaHei',sans-serif;color:#7d8aa0;margin:0 0 4px 0;font-size:14px">
-把 LLM 塞进旧系统、行业流程和真实业务的人。大连理工大学 · 生物信息学；机器学习竞赛、文档智能、生物信息、自建多机网格。
-</p>
-
-<p style="font-family:ui-monospace,Consolas,monospace;color:#5aa9e6;margin:6px 0 0 0;font-size:13px">
-34 公开仓库 · 顶流 318★ · 11 关注者 · Pull Shark · YOLO · Starstruck ×2
-</p>
-
-</div>
-
----
-
-## 关于
-
-| | |
-|---|---|
-| **教育** | 大连理工大学（2023-2027）· 生物信息学 · 校人工智能社团技术负责人 |
-| **科研** | CCF 大连会长齐恒教授指导，LLM 数据算法优化与 AI 教育应用，两项软件著作权；牛津大学 Genexis 团队，多组学数据预训练模型微调与 BioClaw 自动化 AGENT SaaS |
-| **荣誉** | 科大讯飞医疗咨询问答优化算法挑战赛 冠军（队长）· 全国大学生计算机大赛 AI 赛道 全国三等奖（队长）· 信通院"光华杯"智慧教育专题赛 全国二等奖 · 大创国家级 ×2（队长）· 美赛 H 奖 · 软著 2 项 · 专利 2 项在审（LLM 学术查询解析与跨库语义转换 / 大模型驱动学术文献智能检索） |
-| **技能** | Python · Go · LLM 微调 · RAG 应用 · Agent 开发 · Docker · Linux · Claude Code |
-
----
-
-## 机器档案
+```
 
 > 多机舰队，一台笔记本干日常，一台服务器跑服务，中间用自研 EasyTier 网格串起来。状态为最近一次巡检记录。
 
