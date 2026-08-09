@@ -53,20 +53,20 @@
 
 ```
 ┌──────────────────────────────────────────────────┐
-│  日常笔记本   Legion Y9000P · Linux Mint          │
+│  日常笔记本   Linux Mint 工作站                   │
 │  v2rayA 代理 · ZeroTier · rEFInd · WPS            │
 │  Bambu 3D 打印 · Minecraft · 竞赛提交             │
-│  _Projects 档案柜 (共享盘 /mnt/shared)            │
+│  _Projects 档案柜 (共享盘)                        │
 └───────────────────────┬──────────────────────────┘
                         │ ssh
                         ▼
 ┌──────────────────────────────────────────────────┐
-│  计算服务器   NF5568M4 · Ubuntu 24.04             │
+│  计算服务器   Ubuntu 24.04                        │
 │  Docker 服务群：文档解析 · 模型网关 · 知识库      │
 │  远程终端 · 语音 · 数据代理                       │
 │  虚拟化实验 · 自托管服务 · 数据分析               │
 └──────┬──────────────────────┬────────────────────┘
-       │ 加密隧道              │ 校园实验网 10.123.45.x
+       │ 加密隧道              │ 校园实验网
        ▼                      ▼
   管理堡垒机 + GPU 工作站集群   实验网工作机 · 评测服务
   显存总量约 400GB · ● 在线     ○ 到校才上线
@@ -79,15 +79,15 @@
 <tr>
 <td style="border:1px solid #1f2c46;background:#111a2e;border-radius:8px;padding:12px 14px;width:50%;vertical-align:top">
 <div style="font-family:'Songti SC','Noto Serif CJK SC',Georgia,serif;font-weight:700;color:#e8eef7">
-<span style="color:#e8a33d">●</span> 日常笔记本 <span style="font-family:ui-monospace,Consolas,monospace;font-weight:400;color:#5aa9e6;font-size:12px">Legion Y9000P · Linux Mint</span>
+<span style="color:#e8a33d">●</span> 日常笔记本 <span style="font-family:ui-monospace,Consolas,monospace;font-weight:400;color:#5aa9e6;font-size:12px">Linux Mint 工作站</span>
 </div>
 <div style="color:#9aa7bd;margin-top:6px;line-height:1.7;font-family:'PingFang SC','Noto Sans CJK SC','Microsoft YaHei',sans-serif">
-主力工作机。v2rayA 代理、ZeroTier 组网、rEFInd 引导、WPS/QQ/微信日常办公；BambuStudio 切片 3D 打印；Minecraft 启动器；各竞赛的提交、打包、上传都在这里做。共享盘 <span style="font-family:ui-monospace,Consolas,monospace;color:#5aa9e6">/mnt/shared</span> 装着全部项目档案。
+主力工作机。v2rayA 代理、ZeroTier 组网、rEFInd 引导、WPS/QQ/微信日常办公；BambuStudio 切片 3D 打印；Minecraft 启动器；各竞赛的提交、打包、上传都在这里做。共享盘装着全部项目档案（_Projects）。
 </div>
 </td>
 <td style="border:1px solid #1f2c46;background:#111a2e;border-radius:8px;padding:12px 14px;width:50%;vertical-align:top">
 <div style="font-family:'Songti SC','Noto Serif CJK SC',Georgia,serif;font-weight:700;color:#e8eef7">
-<span style="color:#e8a33d">●</span> 计算服务器 <span style="font-family:ui-monospace,Consolas,monospace;font-weight:400;color:#5aa9e6;font-size:12px">NF5568M4 · Ubuntu 24.04</span>
+<span style="color:#e8a33d">●</span> 计算服务器 <span style="font-family:ui-monospace,Consolas,monospace;font-weight:400;color:#5aa9e6;font-size:12px">Ubuntu 24.04</span>
 </div>
 <div style="color:#9aa7bd;margin-top:6px;line-height:1.7;font-family:'PingFang SC','Noto Sans CJK SC','Microsoft YaHei',sans-serif">
 Docker 服务群：文档解析、模型网关、知识库、远程终端、语音与数据代理等业务容器；虚拟化实验与自托管服务；数据分析流水线。
@@ -97,7 +97,7 @@ Docker 服务群：文档解析、模型网关、知识库、远程终端、语�
 <tr>
 <td style="border:1px solid #1f2c46;background:#111a2e;border-radius:8px;padding:12px 14px;width:50%;vertical-align:top">
 <div style="font-family:'Songti SC','Noto Serif CJK SC',Georgia,serif;font-weight:700;color:#e8eef7">
-<span style="color:#e8a33d">●</span> 自建网格 <span style="font-family:ui-monospace,Consolas,monospace;font-weight:400;color:#5aa9e6;font-size:12px">EasyTier 10.144.144.x</span>
+<span style="color:#e8a33d">●</span> 自建网格 <span style="font-family:ui-monospace,Consolas,monospace;font-weight:400;color:#5aa9e6;font-size:12px">EasyTier 加密隧道</span>
 </div>
 <div style="color:#9aa7bd;margin-top:6px;line-height:1.7;font-family:'PingFang SC','Noto Sans CJK SC','Microsoft YaHei',sans-serif">
 笔记本、服务器、设备通过自研 EasyTier mesh 互通，随时随地上线即达。设备侧节点在线；其余节点随用随开。网格本身也是开源项目：<a href="https://github.com/AdamPlatin123/genexis-easytier">genexis-easytier</a>。
