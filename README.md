@@ -207,8 +207,8 @@ Docker 服务群：文档解析、模型网关、知识库、远程终端、语�
 - **2025** Docling-webui、Faster-Whisper-WebUI、Fish-AI-Handbook
 - **2026** BioHermes v2、OncoRNA-Align（WAIC）、genexis-easytier、gomoku_rl_demo、retroagent-win3.2
 
----
+## 📮 Contact me
 
-<div align="center" style="color:#566178;font-size:12px;font-family:ui-monospace,Consolas,monospace">
-机器状态为最近一次巡检记录 · 无密钥、无凭据，只有干活留下的痕迹
-</div>
+- 📧 Email：AdamPlatin123@outlook.com
+- 🐙 GitHub：https://github.com/AdamPlatin123
+- 💬 欢迎就 LLM 应用、竞赛、开源协作交流
