@@ -5,7 +5,7 @@
   </p>
 
   <p>
-    <code>大连理工大学 · 生物信息学</code>
+    <code>AI × Bioinfo</code>
     <code>AI 全栈 · 文档智能 · 自建多机网格</code>
   </p>
 
