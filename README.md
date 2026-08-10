@@ -191,7 +191,7 @@ Docker 服务群：文档解析、模型网关、知识库、远程终端、语�
 
 | 主题 | 内容 |
 |---|---|
-| **行业项目** | 中国建筑合同审查项目（contract-review：合同文档解析 + 审查工作台，FastAPI + Knowhere RAG + MinerU 文档解析）；LCCPA 肺癌症状预警处置系统（企业微信 H5 问卷 + 规则引擎 + GPU OCR，Fastify + PGlite + React 19）；Tron-Copilot 产品文档；OPC-taskboard（给"一人公司"做的交付凭证层，AGPL 生成器 + MIT 规范） |
+| **行业项目** | 头部国企文本合作项目（AI 应用开发：长文本处理工具 + RAG 文档解析）；LCCPA 肺癌症状预警处置系统（企业微信 H5 问卷 + 规则引擎 + GPU OCR，Fastify + PGlite + React 19）；Tron-Copilot 产品文档；OPC-taskboard（给"一人公司"做的交付凭证层，AGPL 生成器 + MIT 规范） |
 | **竞赛** | GenMind 基因组医学；AerogelAI 气动预测；CP-TCG / KDBURI / LIBS-CBCV；FullAutoAgent 全自动参赛系统（会话备份含 68MB 巨型坐庄监控会话） |
 | **学术** | 冷启动-学术（不确定性研究论文，LaTeX 全流程）；pbmc 单细胞转录组分析；OncoRNA-Align；biohermes（计算生物学 Agent，75 个 OpenScience 技能，PBMC3k 无人值守验收）；AI教育（双轨大学深度研究报告、deep-research-studio） |
 | **基建** | run-ml-competition（竞赛流水线 harness，agents/SKILL.md）；system-image（vm-deploy + RustDesk 部署）；easytier-test；GPU-research（Qwen3.6-MinerU 选型调研） |
