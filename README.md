@@ -82,7 +82,7 @@
 <span style="color:#e8a33d">●</span> 日常笔记本 <span style="font-family:ui-monospace,Consolas,monospace;font-weight:400;color:#5aa9e6;font-size:12px">Linux Mint 工作站</span>
 </div>
 <div style="color:#9aa7bd;margin-top:6px;line-height:1.7;font-family:'PingFang SC','Noto Sans CJK SC','Microsoft YaHei',sans-serif">
-日常与项目中枢：竞赛（基因组医学、气动预测、量化策略 harness）的提交、打包、上传都从这里出发；行业文本合作、医疗预警应用等项目的开发与维护；学术论文与数据分析产出；自建网络与系统镜像部署的实验场。共享盘 _Projects 装着 30 余个条目的完整档案，各台机器的产物最终都归档到这里。
+日常与项目中枢：竞赛提交（基因组医学、气动预测）从这里打包出发；LLM Agent 工程与研究（生物医学 Agent、Agent 终端皮肤设计、外部研究）在此落地；行业文本合作与医疗预警应用的开发维护；学术论文与数据分析产出。共享盘 _Projects 装着 30 余个条目的完整档案，各台机器的产物最终都归档到这里。
 </div>
 </td>
 <td style="border:1px solid #1f2c46;background:#111a2e;border-radius:8px;padding:12px 14px;width:50%;vertical-align:top">
