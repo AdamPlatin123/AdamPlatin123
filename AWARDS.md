@@ -1,4 +1,4 @@
-# 🏆 Awards
+# Awards
 
 完整荣誉清单。
 

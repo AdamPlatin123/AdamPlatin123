@@ -1,12 +1,12 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&width=700&lines=Hi,+I'm+Adam.+LLM+%C3%97+Real+Business" alt="Hi"/>
   <p>
-    👋 <strong>把 LLM 塞进旧系统、行业流程和真实业务的人。</strong>
+    <strong>把 LLM 塞进旧系统、行业流程和真实业务的人。</strong>
   </p>
 
   <p>
-    <code>🐼 大连理工大学 · 生物信息学</code>
-    <code>📍 AI 全栈 · 文档智能 · 自建多机网格</code>
+    <code>大连理工大学 · 生物信息学</code>
+    <code>AI 全栈 · 文档智能 · 自建多机网格</code>
   </p>
 
   <p>
@@ -20,7 +20,7 @@
 <tr>
 <td valign="top" width="50%">
 
-#### 🎓 教育 · 科研
+#### 教育 · 科研
 
 - **大连理工大学**（2023-2027）· 生物信息学 · 校人工智能社团技术负责人
 - **高校课题组科研**：LLM 数据算法优化与 AI 教育应用，两项软件著作权
@@ -30,9 +30,9 @@
 </td>
 <td valign="top" width="48%">
 
-#### 🏆 荣誉 · 专利
+#### 荣誉 · 专利
 
-> 📄 [View Awards →](https://github.com/AdamPlatin123/AdamPlatin123/blob/main/AWARDS.md)
+> [View Awards →](https://github.com/AdamPlatin123/AdamPlatin123/blob/main/AWARDS.md)
 
 - **科大讯飞医疗咨询问答优化算法挑战赛 冠军**（队长）
 - **全国大学生计算机大赛 AI 赛道 全国三等奖**（队长）
@@ -207,8 +207,8 @@ Docker 服务群：文档解析、模型网关、知识库、远程终端、语�
 - **2025** Docling-webui、Faster-Whisper-WebUI、Fish-AI-Handbook
 - **2026** BioHermes v2、OncoRNA-Align（WAIC）、genexis-easytier、gomoku_rl_demo、retroagent-win3.2
 
-## 📮 Contact me
+## Contact me
 
-- 📧 Email：AdamPlatin123@outlook.com
-- 🐙 GitHub：https://github.com/AdamPlatin123
-- 💬 欢迎就 LLM 应用、竞赛、开源协作交流
+- Email：AdamPlatin123@outlook.com
+- GitHub：https://github.com/AdamPlatin123
+- 欢迎就 LLM 应用、竞赛、开源协作交流
