@@ -152,12 +152,7 @@ Docker 服务群：文档解析、模型网关、知识库、远程终端、语�
 </td>
 </tr>
 <tr>
-<td style="border:1px solid #1f2c46;background:#111a2e;border-radius:8px;padding:10px 14px;width:50%;vertical-align:top">
-<a href="https://github.com/AdamPlatin123/OncoRNA-Align" style="color:#e8a33d;text-decoration:none;font-weight:700">OncoRNA-Align</a>
-<span style="color:#7d8aa0;font-family:ui-monospace,Consolas,monospace;font-size:12px"> Python</span>
-<div style="color:#9aa7bd;margin-top:4px;line-height:1.6">RNA-seq 肿瘤学多模态对齐与进化数据集，WAIC MDIC2026 Track 1。</div>
-</td>
-<td style="border:1px solid #1f2c46;background:#111a2e;border-radius:8px;padding:10px 14px;width:50%;vertical-align:top">
+<td style="border:1px solid #1f2c46;background:#111a2e;border-radius:8px;padding:10px 14px;width:100%;vertical-align:top">
 <a href="https://github.com/AdamPlatin123/genexis-easytier" style="color:#e8a33d;text-decoration:none;font-weight:700">genexis-easytier</a>
 <span style="color:#7d8aa0;font-family:ui-monospace,Consolas,monospace;font-size:12px"> Rust</span>
 <div style="color:#9aa7bd;margin-top:4px;line-height:1.6">EasyTier 自建网格的部署与设备配套（LGPL-3.0），家里的多机网络就靠它。</div>
@@ -199,7 +194,7 @@ Docker 服务群：文档解析、模型网关、知识库、远程终端、语�
 |---|---|
 | **行业项目** | 头部国企文本合作项目（AI 应用开发：长文本处理工具 + RAG 文档解析）；LCCPA 肺癌症状预警处置系统（企业微信 H5 问卷 + 规则引擎 + GPU OCR，Fastify + PGlite + React 19）；Tron-Copilot 产品文档；OPC-taskboard（给"一人公司"做的交付凭证层，AGPL 生成器 + MIT 规范） |
 | **竞赛** | GenMind 基因组医学；AerogelAI 气动预测；CP-TCG / KDBURI / LIBS-CBCV；FullAutoAgent 全自动参赛系统（会话备份含 68MB 巨型坐庄监控会话） |
-| **学术** | 冷启动-学术（不确定性研究论文，LaTeX 全流程）；pbmc 单细胞转录组分析；OncoRNA-Align；biohermes（计算生物学 Agent，75 个 OpenScience 技能，PBMC3k 无人值守验收）；AI教育（双轨大学深度研究报告、deep-research-studio） |
+| **学术** | 冷启动-学术（不确定性研究论文，LaTeX 全流程）；pbmc 单细胞转录组分析；biohermes（计算生物学 Agent，75 个 OpenScience 技能，PBMC3k 无人值守验收）；AI教育（双轨大学深度研究报告、deep-research-studio） |
 | **基建** | run-ml-competition（竞赛流水线 harness，agents/SKILL.md）；system-image（vm-deploy + RustDesk 部署）；easytier-test；GPU-research（Qwen3.6-MinerU 选型调研） |
 | **玩** | LegacyCode（Windows 3.2 复古项目）；chatlog（微信数据库读取 + MCP 服务）；3D 打印（Bambu N30 电机座参数化模型）；Minecraft 模组服 |
 
@@ -211,7 +206,7 @@ Docker 服务群：文档解析、模型网关、知识库、远程终端、语�
 - **2024** 泡在 Dify / FastGPT 生态里，攒工作流
 - **2025-02** <a href="https://github.com/AdamPlatin123/Open-Deep-Research-workflow-on-Dify">Open-Deep-Research-workflow-on-Dify</a>，318 星
 - **2025** Docling-webui、Faster-Whisper-WebUI、Fish-AI-Handbook
-- **2026** BioHermes v2、OncoRNA-Align（WAIC）、genexis-easytier、gomoku_rl_demo、retroagent-win3.2
+- **2026** BioHermes v2、genexis-easytier、gomoku_rl_demo、retroagent-win3.2
 
 ## Contact me
 
