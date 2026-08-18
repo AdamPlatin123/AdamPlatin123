@@ -12,6 +12,12 @@
   <p>
     34 公开仓库 · 顶流 318★ · 11 关注者 · Pull Shark · YOLO · Starstruck ×2
   </p>
+
+  <p>
+    <a href="https://ghfind.com/u/adamplatin123">
+      <img src="assets/ghfind-card.svg" alt="ghfind 评测：80.90/100 · 顶级 · 前 13%" width="440" />
+    </a>
+  </p>
 </div>
 
 ---
