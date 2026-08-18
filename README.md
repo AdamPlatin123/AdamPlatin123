@@ -1,16 +1,19 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&width=700&lines=Hi,+I'm+Adam.+LLM+%C3%97+Real+Business" alt="Hi"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&width=700&lines=Hi,+I'm+Adam.+Agents+into+real+business." alt="Hi"/>
   <p>
-    <strong>把 LLM 塞进旧系统、行业流程和真实业务的人。</strong>
+    <strong>把 Agent 塞进旧系统、行业流程和真实业务的人。</strong>
   </p>
 
   <p>
+    <code>Agent 工程</code>
+    <code>开发者工具</code>
     <code>AI × Bioinfo</code>
-    <code>AI 全栈 · 文档智能 · 自建多机网格</code>
   </p>
 
   <p>
-    39 公开仓库 · 顶流 1213★ · 15 关注者 · Pull Shark · YOLO · Starstruck ×2
+    <a href="https://github.com/AdamPlatin123/awesome-dsh-plugins"><img src="https://img.shields.io/github/stars/AdamPlatin123/awesome-dsh-plugins?label=awesome-dsh-plugins&style=social" alt="awesome-dsh-plugins stars"/></a>
+    <a href="https://github.com/AdamPlatin123?tab=followers"><img src="https://img.shields.io/github/followers/AdamPlatin123?style=social" alt="followers"/></a>
+    · Pull Shark · YOLO · Starstruck ×2
   </p>
 
   <p>
