@@ -10,7 +10,7 @@
   </p>
 
   <p>
-    34 公开仓库 · 顶流 318★ · 11 关注者 · Pull Shark · YOLO · Starstruck ×2
+    39 公开仓库 · 顶流 1213★ · 15 关注者 · Pull Shark · YOLO · Starstruck ×2
   </p>
 
   <p>
@@ -41,7 +41,7 @@
 > [View Awards →](https://github.com/AdamPlatin123/AdamPlatin123/blob/main/AWARDS.md)
 
 - **科大讯飞医疗咨询问答优化算法挑战赛 冠军**（队长）
-- **全国大学生计算机大赛 AI 赛道 全国三等奖**（队长）
+- **中国大学生计算机设计大赛（人工智能应用）全国三等奖**（队长）
 - **信通院"光华杯"智慧教育专题赛 全国二等奖**
 - 大创国家级 ×2（队长）· 美赛 H 奖 · 软著 2 项 · **专利 2 项在审**
 
@@ -129,9 +129,21 @@ Docker 服务群：文档解析、模型网关、知识库、远程终端、语�
 <table style="border-collapse:collapse;width:100%;font-size:14px">
 <tr>
 <td style="border:1px solid #1f2c46;background:#111a2e;border-radius:8px;padding:10px 14px;width:50%;vertical-align:top">
+<a href="https://github.com/AdamPlatin123/awesome-dsh-plugins" style="color:#e8a33d;text-decoration:none;font-weight:700">awesome-dsh-plugins</a>
+<span style="color:#7d8aa0;font-family:ui-monospace,Consolas,monospace;font-size:12px"> ★1213 · Python</span>
+<div style="color:#9aa7bd;margin-top:4px;line-height:1.6">DSH 插件雷达与精选榜：多路自动发现 7600+ 候选，容器运行级实测（四档判定），Top 50 人工策展。GitHub Trending 日榜第 22。</div>
+</td>
+<td style="border:1px solid #1f2c46;background:#111a2e;border-radius:8px;padding:10px 14px;width:50%;vertical-align:top">
+<a href="https://github.com/AdamPlatin123/dsh-zcf" style="color:#e8a33d;text-decoration:none;font-weight:700">dsh-zcf</a> ·
+<a href="https://github.com/AdamPlatin123/dsh-tonghuashun" style="color:#e8a33d;text-decoration:none;font-weight:700">dsh-tonghuashun</a>
+<div style="color:#9aa7bd;margin-top:4px;line-height:1.6">DSH 生态工具链：一键零配置安装向导（npm 发版）+ 同花顺风格客户端皮肤插件（按官方 cordis.patch.yml 流程开发）。</div>
+</td>
+</tr>
+<tr>
+<td style="border:1px solid #1f2c46;background:#111a2e;border-radius:8px;padding:10px 14px;width:50%;vertical-align:top">
 <a href="https://github.com/AdamPlatin123/Open-Deep-Research-workflow-on-Dify" style="color:#e8a33d;text-decoration:none;font-weight:700">Open-Deep-Research-workflow-on-Dify</a>
-<span style="color:#7d8aa0;font-family:ui-monospace,Consolas,monospace;font-size:12px"> ★318 · fork 60</span>
-<div style="color:#9aa7bd;margin-top:4px;line-height:1.6">Dify 上的深度研究工作流，被广泛 fork 的入门级 deep research 方案。</div>
+<span style="color:#7d8aa0;font-family:ui-monospace,Consolas,monospace;font-size:12px"> ★319 · fork 60</span>
+<div style="color:#9aa7bd;margin-top:4px;line-height:1.6">Dify 深度研究工作流，被广泛 fork；已被 Awesome-Dify-Workflow（10.7k★）收录并署名。</div>
 </td>
 <td style="border:1px solid #1f2c46;background:#111a2e;border-radius:8px;padding:10px 14px;width:50%;vertical-align:top">
 <a href="https://github.com/AdamPlatin123/BioHermes" style="color:#e8a33d;text-decoration:none;font-weight:700">BioHermes</a>
@@ -179,8 +191,8 @@ Docker 服务群：文档解析、模型网关、知识库、远程终端、语�
 |---|---|---|
 | 2025.11 | 科大讯飞 医疗咨询问答优化算法挑战赛 冠军 | 队长 |
 | 2026.02 | 信通院"光华杯"智慧教育专题赛 全国二等奖（联通合作项目） | 参赛 |
-| 2024.08 | 全国大学生计算机大赛 AI 赛道 全国三等奖 | 队长 |
-| 2025.08 | 中国国际大学生创新创业比赛 省级银奖 | 队长 |
+| 2024.08 | 中国大学生计算机设计大赛（人工智能应用）全国三等奖 | 队长 |
+| 2025.08 | 中国国际大学生创新大赛（辽宁赛区）省级银奖 | 队长 |
 | 2024.02 | 美国大学生数学竞赛（美赛）H 奖 | 队长 |
 | 2025-2027 | 大学生创新创业训练计划 国家级 ×2 | 队长 |
 
@@ -207,6 +219,7 @@ Docker 服务群：文档解析、模型网关、知识库、远程终端、语�
 - **2025-02** <a href="https://github.com/AdamPlatin123/Open-Deep-Research-workflow-on-Dify">Open-Deep-Research-workflow-on-Dify</a>，318 星
 - **2025** Docling-webui、Faster-Whisper-WebUI、Fish-AI-Handbook
 - **2026** BioHermes v2、genexis-easytier、gomoku_rl_demo、retroagent-win3.2
+- **2026-08** <a href="https://github.com/AdamPlatin123/awesome-dsh-plugins">awesome-dsh-plugins</a> 插件雷达（1213★，GitHub Trending 日榜第 22）、dsh-zcf、dsh-tonghuashun；向 unsloth / easy-dataset / hermes-agent 提交上游 PR
 
 ## Contact me
 
