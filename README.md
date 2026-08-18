@@ -135,13 +135,6 @@
 </td>
 </tr>
 <tr>
-<td style="border:1px solid #1f2c46;background:#111a2e;border-radius:8px;padding:10px 14px;width:100%;vertical-align:top">
-<a href="https://github.com/AdamPlatin123/genexis-easytier" style="color:#e8a33d;text-decoration:none;font-weight:700">genexis-easytier</a>
-<span style="color:#7d8aa0;font-family:ui-monospace,Consolas,monospace;font-size:12px"> Rust</span>
-<div style="color:#9aa7bd;margin-top:4px;line-height:1.6">EasyTier 自建网格的部署与设备配套（LGPL-3.0），家里的多机网络就靠它。</div>
-</td>
-</tr>
-<tr>
 <td style="border:1px solid #1f2c46;background:#111a2e;border-radius:8px;padding:10px 14px;width:50%;vertical-align:top">
 <a href="https://github.com/AdamPlatin123/Docling-webui" style="color:#e8a33d;text-decoration:none;font-weight:700">Docling-webui</a> <span style="color:#7d8aa0;font-family:ui-monospace,Consolas,monospace;font-size:12px"> ★12</span> ·
 <a href="https://github.com/AdamPlatin123/Faster-Whisper-WebUI" style="color:#e8a33d;text-decoration:none;font-weight:700">Faster-Whisper-WebUI</a> <span style="color:#7d8aa0;font-family:ui-monospace,Consolas,monospace;font-size:12px"> ★6</span>
