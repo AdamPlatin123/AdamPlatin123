@@ -28,7 +28,7 @@
 
 #### 教育 · 科研
 
-- **大连理工大学**（2023-2027）· 生物信息学 · 校人工智能社团技术负责人
+- **大连理工大学**（2023-2027）· 校人工智能社团技术负责人 · 生物信息学
 - **高校课题组科研**：LLM 数据算法优化与 AI 教育应用，两项软件著作权
 - **牛津大学 Genexis 团队**：多组学数据预训练模型微调 · BioClaw 自动化 AGENT SaaS
 - **企业合作项目**：AI 应用开发，本地大模型长文本处理工具与服务器基础设施优化
@@ -57,68 +57,36 @@
 
 ## 机器档案
 
+<details>
+<summary><b>一台笔记本 + 一台服务器 + 校园 GPU 集群，EasyTier 自建网格串联 —— 点击展开</b></summary>
+
 ```
 ┌──────────────────────────────────────────────────┐
 │  日常笔记本   Linux Mint 工作站                    │
-│  v2rayA 代理 · ZeroTier · rEFInd · WPS           │
-│  Bambu 3D 打印 · Minecraft · 竞赛提交             │
-│  _Projects 档案柜 (共享盘)                        │
+│  Claude Code 多终端 · DSH 插件开发 · 3D 打印       │
+│  _Projects 共享盘档案柜（30+ 条目）                │
 └───────────────────────┬──────────────────────────┘
                         │ ssh
                         ▼
 ┌──────────────────────────────────────────────────┐
 │  计算服务器   Ubuntu 24.04                        │
-│  Docker 服务群：文档解析 · 模型网关 · 知识库          │
-│  远程终端 · 语音 · 数据代理                         │
-│  虚拟化实验 · 自托管服务 · 数据分析                  │
-└──────┬──────────────────────┬────────────────────┘
-       │ 加密隧道              │ 校园实验网
-       ▼                      ▼
-  管理堡垒机 + GPU 工作站集群   实验网工作机 · 评测服务
-  显存总量约 400GB · ● 在线     ○ 到校才上线
-       └── EasyTier 网格 ── 设备节点 ● / 其余随用随开
+│  Docker 服务群：文档解析 · 模型网关 · 知识库        │
+│  远程终端 · 自托管服务 · 数据分析流水线             │
+└──────┬──────────────────────────────┬────────────┘
+       │ EasyTier 加密隧道             │ 校园实验网
+       ▼                              ▼
+  GPU 工作站集群 · 显存约 400GB    实验网工作机 · 评测服务
+       └────── 网格即达 · 节点随用随开 ──────┘
 ```
 
-> 多机舰队，一台笔记本干日常，一台服务器跑服务，中间用自研 EasyTier 网格串起来。状态为最近一次巡检记录。
+| 节点 | 分工 |
+|---|---|
+| **日常笔记本** · Linux Mint | 项目中枢：Claude Code 多终端协作、DSH 插件开发、竞赛提交与 Agent 工程研究；产物统一归档 _Projects 共享盘 |
+| **计算服务器** · Ubuntu 24.04 | Docker 服务群：文档解析、模型网关、知识库、远程终端、语音与数据代理；虚拟化实验与自托管服务 |
+| **GPU 工作站集群** · 显存约 400GB | 训练与推理：竞赛训练流水线、模型微调与推理服务，经管理堡垒机加密隧道接入 |
+| **自建网格** · [genexis-easytier](https://github.com/AdamPlatin123/genexis-easytier) | EasyTier 加密 mesh 串联全部节点：随时随地、上线即达、随用随开 |
 
-<table style="border-collapse:collapse;width:100%;font-size:14px">
-<tr>
-<td style="border:1px solid #1f2c46;background:#111a2e;border-radius:8px;padding:12px 14px;width:50%;vertical-align:top">
-<div style="font-family:'Songti SC','Noto Serif CJK SC',Georgia,serif;font-weight:700;color:#e8eef7">
-<span style="color:#e8a33d">●</span> 日常笔记本 <span style="font-family:ui-monospace,Consolas,monospace;font-weight:400;color:#5aa9e6;font-size:12px">Linux Mint 工作站</span>
-</div>
-<div style="color:#9aa7bd;margin-top:6px;line-height:1.7;font-family:'PingFang SC','Noto Sans CJK SC','Microsoft YaHei',sans-serif">
-日常与项目中枢：竞赛提交（基因组医学、气动预测）从这里打包出发；LLM Agent 工程与研究（生物医学 Agent、Agent 终端皮肤设计、外部研究）在此落地；行业文本合作与医疗预警应用的开发维护；学术论文与数据分析产出。共享盘 _Projects 装着 30 余个条目的完整档案，各台机器的产物最终都归档到这里。
-</div>
-</td>
-<td style="border:1px solid #1f2c46;background:#111a2e;border-radius:8px;padding:12px 14px;width:50%;vertical-align:top">
-<div style="font-family:'Songti SC','Noto Serif CJK SC',Georgia,serif;font-weight:700;color:#e8eef7">
-<span style="color:#e8a33d">●</span> 计算服务器 <span style="font-family:ui-monospace,Consolas,monospace;font-weight:400;color:#5aa9e6;font-size:12px">Ubuntu 24.04</span>
-</div>
-<div style="color:#9aa7bd;margin-top:6px;line-height:1.7;font-family:'PingFang SC','Noto Sans CJK SC','Microsoft YaHei',sans-serif">
-Docker 服务群：文档解析、模型网关、知识库、远程终端、语音与数据代理等业务容器；虚拟化实验与自托管服务；数据分析流水线。
-</div>
-</td>
-</tr>
-<tr>
-<td style="border:1px solid #1f2c46;background:#111a2e;border-radius:8px;padding:12px 14px;width:50%;vertical-align:top">
-<div style="font-family:'Songti SC','Noto Serif CJK SC',Georgia,serif;font-weight:700;color:#e8eef7">
-<span style="color:#e8a33d">●</span> 自建网格 <span style="font-family:ui-monospace,Consolas,monospace;font-weight:400;color:#5aa9e6;font-size:12px">EasyTier 加密隧道</span>
-</div>
-<div style="color:#9aa7bd;margin-top:6px;line-height:1.7;font-family:'PingFang SC','Noto Sans CJK SC','Microsoft YaHei',sans-serif">
-笔记本、服务器、设备通过自研 EasyTier mesh 互通，随时随地上线即达。设备侧节点在线；其余节点随用随开。网格本身也是开源项目：<a href="https://github.com/AdamPlatin123/genexis-easytier">genexis-easytier</a>。
-</div>
-</td>
-<td style="border:1px solid #1f2c46;background:#111a2e;border-radius:8px;padding:12px 14px;width:50%;vertical-align:top">
-<div style="font-family:'Songti SC','Noto Serif CJK SC',Georgia,serif;font-weight:700;color:#e8eef7">
-<span style="color:#e8a33d">●</span> GPU 工作站集群 <span style="font-family:ui-monospace,Consolas,monospace;font-weight:400;color:#5aa9e6;font-size:12px">加密隧道接入 · 显存总量约 400GB</span>
-</div>
-<div style="color:#9aa7bd;margin-top:6px;line-height:1.7;font-family:'PingFang SC','Noto Sans CJK SC','Microsoft YaHei',sans-serif">
-校园网内的训练与推理集群，经管理堡垒机加密隧道接入。竞赛训练流水线、模型微调与推理服务都跑在这里。
-</div>
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
