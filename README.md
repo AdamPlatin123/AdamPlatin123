@@ -13,7 +13,7 @@
   <p>
     <a href="https://github.com/AdamPlatin123/awesome-dsh-plugins"><img src="https://img.shields.io/github/stars/AdamPlatin123/awesome-dsh-plugins?label=awesome-dsh-plugins&style=social" alt="awesome-dsh-plugins stars"/></a>
     <a href="https://github.com/AdamPlatin123?tab=followers"><img src="https://img.shields.io/github/followers/AdamPlatin123?style=social" alt="followers"/></a>
-    · Pull Shark · YOLO · Starstruck ×3
+    · Pull Shark · Quickdraw · Starstruck ×3
   </p>
 
   <p>
