@@ -129,7 +129,7 @@
 <div style="color:#9aa7bd;margin-top:4px;line-height:1.6">五子棋 AlphaZero 训练演示：残差策略价值网络 + MCTS，自我对弈实时可视化，三模式 GPU 切换。</div>
 </td>
 <td style="border:1px solid #1f2c46;background:#111a2e;border-radius:8px;padding:10px 14px;width:50%;vertical-align:top">
-<a href="https://github.com/AdamPlatin123/retroagent-win3.2" style="color:#e8a33d;text-decoration:none;font-weight:700">retroagent-win3.2</a>
+<a href="https://github.com/AdamPlatin123/Legacycode-win3.2" style="color:#e8a33d;text-decoration:none;font-weight:700">Legacycode-win3.2</a>
 <span style="color:#7d8aa0;font-family:ui-monospace,Consolas,monospace;font-size:12px"> Python</span>
 <div style="color:#9aa7bd;margin-top:4px;line-height:1.6">QEMU 虚拟串口 + Python Bridge + claude CLI，让 Claude 住进 1994 年的中文 Windows 3.2。</div>
 </td>
@@ -182,7 +182,7 @@
 - **2024** 泡在 Dify / FastGPT 生态里，攒工作流
 - **2025-02** <a href="https://github.com/AdamPlatin123/Open-Deep-Research-workflow-on-Dify">Open-Deep-Research-workflow-on-Dify</a>，318 星
 - **2025** Docling-webui、Faster-Whisper-WebUI、Fish-AI-Handbook
-- **2026** BioHermes v2、genexis-easytier、gomoku_rl_demo、retroagent-win3.2
+- **2026** BioHermes v2、genexis-easytier、gomoku_rl_demo、Legacycode-win3.2
 - **2026-08** <a href="https://github.com/AdamPlatin123/awesome-dsh-plugins">awesome-dsh-plugins</a> 插件雷达（1213★，GitHub Trending 日榜第 22）、dsh-zcf、dsh-tonghuashun；向 unsloth / easy-dataset / hermes-agent 提交上游 PR
 
 ## Contact me
