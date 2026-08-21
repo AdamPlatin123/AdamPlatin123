@@ -101,8 +101,8 @@
 <tr>
 <td style="border:1px solid #1f2c46;background:#111a2e;border-radius:8px;padding:10px 14px;width:50%;vertical-align:top">
 <a href="https://github.com/AdamPlatin123/awesome-dsh-plugins" style="color:#e8a33d;text-decoration:none;font-weight:700">awesome-dsh-plugins</a>
-<span style="color:#7d8aa0;font-family:ui-monospace,Consolas,monospace;font-size:12px"> ★1213 · Python</span>
-<div style="color:#9aa7bd;margin-top:4px;line-height:1.6">DSH 插件雷达与精选榜：多路自动发现 7600+ 候选，容器运行级实测（四档判定），Top 50 人工策展。GitHub Trending 日榜第 22。</div>
+<span style="color:#7d8aa0;font-family:ui-monospace,Consolas,monospace;font-size:12px"> ★1281 · Python</span>
+<div style="color:#9aa7bd;margin-top:4px;line-height:1.6">DSH 插件雷达与精选榜：多路自动发现 9000+ 候选，容器运行级实测（四档判定），Top 50 人工策展。GitHub Trending 日榜第 22。</div>
 </td>
 <td style="border:1px solid #1f2c46;background:#111a2e;border-radius:8px;padding:10px 14px;width:50%;vertical-align:top">
 <a href="https://github.com/AdamPlatin123/dsh-zcf" style="color:#e8a33d;text-decoration:none;font-weight:700">dsh-zcf</a> ·
@@ -180,10 +180,10 @@
 
 - **2023-12** 注册 GitHub，从 GeminiProChat fork 开始
 - **2024** 泡在 Dify / FastGPT 生态里，攒工作流
-- **2025-02** <a href="https://github.com/AdamPlatin123/Open-Deep-Research-workflow-on-Dify">Open-Deep-Research-workflow-on-Dify</a>，318 星
+- **2025-02** <a href="https://github.com/AdamPlatin123/Open-Deep-Research-workflow-on-Dify">Open-Deep-Research-workflow-on-Dify</a>，319 星
 - **2025** Docling-webui、Faster-Whisper-WebUI、Fish-AI-Handbook
 - **2026** BioHermes v2、genexis-easytier、gomoku_rl_demo、Legacycode-win3.2
-- **2026-08** <a href="https://github.com/AdamPlatin123/awesome-dsh-plugins">awesome-dsh-plugins</a> 插件雷达（1213★，GitHub Trending 日榜第 22）、dsh-zcf、dsh-tonghuashun；向 unsloth / easy-dataset / hermes-agent 提交上游 PR
+- **2026-08** <a href="https://github.com/AdamPlatin123/awesome-dsh-plugins">awesome-dsh-plugins</a> 插件雷达（1281★，GitHub Trending 日榜第 22）、dsh-zcf、dsh-tonghuashun；向 unsloth / easy-dataset / hermes-agent / dsh-TUI 提交上游 PR
 
 ## Contact me
 
