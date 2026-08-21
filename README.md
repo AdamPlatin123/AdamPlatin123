@@ -47,7 +47,8 @@
 - **科大讯飞医疗咨询问答优化算法挑战赛 冠军**（队长）
 - **中国高校计算机大赛（CCCC）AIGC 创新赛 全国三等奖**（队长）
 - **信通院"光华杯"智慧教育专题赛 全国二等奖**
-- 大创国家级 ×2（队长）· 美赛 H 奖 · 软著 2 项 · **发明专利 2 项（第一发明人，已受理并通过初审）**
+- 中国国际大学生创新大赛 省级银奖
+- 大创国家级 ×2（队长）·  软著 2 项 · **发明专利 2 项（第一发明人，已受理并通过初审）**
 
 </td>
 </tr>
@@ -67,7 +68,7 @@
 ```
 ┌──────────────────────────────────────────────────┐
 │  日常笔记本   Linux Mint 工作站                    │
-│  Claude Code 多终端 · DSH 插件开发 · 3D 打印       │
+│  herdr 多终端管理 · DSH 插件开发 · 3D 打印       │
 │  _Projects 共享盘档案柜（30+ 条目）                │
 └───────────────────────┬──────────────────────────┘
                         │ ssh
@@ -170,10 +171,10 @@
 | 主题 | 内容 |
 |---|---|
 | **行业项目** | 头部国企文本合作项目（AI 应用开发：长文本处理工具 + RAG 文档解析）；LCCPA 肺癌症状预警处置系统（企业微信 H5 问卷 + 规则引擎 + GPU OCR，Fastify + PGlite + React 19）；Tron-Copilot 产品文档；OPC-taskboard（给"一人公司"做的交付凭证层，AGPL 生成器 + MIT 规范） |
-| **竞赛** | GenMind 基因组医学；AerogelAI 气动预测；CP-TCG / KDBURI / LIBS-CBCV；FullAutoAgent 全自动参赛系统（会话备份含 68MB 巨型坐庄监控会话） |
-| **学术** | 冷启动-学术（不确定性研究论文，LaTeX 全流程）；pbmc 单细胞转录组分析；biohermes（计算生物学 Agent，75 个 OpenScience 技能，PBMC3k 无人值守验收）；AI教育（双轨大学深度研究报告、deep-research-studio） |
+| **竞赛** | GenMind 基因组医学模型微调；AerogelAI 气动预测；CP-TCG / KDBURI / LIBS-CBCV；FullAutoAgent 全自动项目长程优化系统 |
+| **学术** | 冷启动-学术（不确定性研究论文，LaTeX 全流程）；pbmc 单细胞转录组分析；biohermes（计算生物学 Agent，75 个 OpenScience 技能，PBMC3k 无人值守验收，BiomniBench 开源SOTA ）；AI教育（双轨大学深度研究报告、deep-research-studio） |
 | **基建** | run-ml-competition（竞赛流水线 harness，agents/SKILL.md）；system-image（vm-deploy + RustDesk 部署）；easytier-test；GPU-research（Qwen3.6-MinerU 选型调研） |
-| **玩** | LegacyCode（Windows 3.2 复古项目）；chatlog（微信数据库读取 + MCP 服务）；3D 打印（Bambu N30 电机座参数化模型）；Minecraft 模组服 |
+| **玩** | LegacyCode（Windows 3.2 + Agent 复古项目）；chat-Linux（从微信信息蒸馏自己 + MCP 服务）；3D 打印（Bambu N30 电机座参数化模型）；Minecraft 模组服 |
 
 ---
 
