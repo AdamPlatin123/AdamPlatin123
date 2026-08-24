@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&width=700&lines=Hi,+I'm+Adam.+Agents+into+real+business." alt="Hi"/>
   <p>
-    <strong>把 Agent 塞进旧系统、行业流程和真实业务的人。</strong>
+    <strong>Seeking Solid Contribute</strong>
   </p>
 
   <p>
