@@ -39,8 +39,8 @@
 <tr>
 <td style="border:1px solid #1f2c46;background:#111a2e;border-radius:8px;padding:10px 14px;width:50%;vertical-align:top">
 <a href="https://github.com/AdamPlatin123/awesome-dsh-plugins" style="color:#e8a33d;text-decoration:none;font-weight:700">awesome-dsh-plugins</a>
-<span style="color:#7d8aa0;font-family:ui-monospace,Consolas,monospace;font-size:12px"> ★1355 · Python</span>
-<div style="color:#9aa7bd;margin-top:4px;line-height:1.6">DSH 插件雷达与精选榜：多路自动发现 9000+ 候选，容器运行级实测（四档判定），Top 50 人工策展。GitHub Trending 日榜第 22。</div>
+<span style="color:#7d8aa0;font-family:ui-monospace,Consolas,monospace;font-size:12px"> ★1417 · Python</span>
+<div style="color:#9aa7bd;margin-top:4px;line-height:1.6">DSH 插件雷达与精选榜：多路自动发现 15000+ 候选，容器运行级实测（四档判定），Top 50 人工策展。GitHub Trending 日榜第 22。</div>
 </td>
 <td style="border:1px solid #1f2c46;background:#111a2e;border-radius:8px;padding:10px 14px;width:50%;vertical-align:top">
 <a href="https://github.com/AdamPlatin123/dsh-zcf" style="color:#e8a33d;text-decoration:none;font-weight:700">dsh-zcf</a> ·
@@ -52,7 +52,7 @@
 <td style="border:1px solid #1f2c46;background:#111a2e;border-radius:8px;padding:10px 14px;width:50%;vertical-align:top">
 <a href="https://github.com/AdamPlatin123/Open-Deep-Research-workflow-on-Dify" style="color:#e8a33d;text-decoration:none;font-weight:700">Open-Deep-Research-workflow-on-Dify</a>
 <span style="color:#7d8aa0;font-family:ui-monospace,Consolas,monospace;font-size:12px"> ★320 · fork 60</span>
-<div style="color:#9aa7bd;margin-top:4px;line-height:1.6">Dify 深度研究工作流，被广泛 fork；已被 Awesome-Dify-Workflow（10.7k★）收录并署名。</div>
+<div style="color:#9aa7bd;margin-top:4px;line-height:1.6">Dify 深度研究工作流，被广泛 fork；已被 Awesome-Dify-Workflow（10.8k★）收录并署名。</div>
 </td>
 <td style="border:1px solid #1f2c46;background:#111a2e;border-radius:8px;padding:10px 14px;width:50%;vertical-align:top">
 <a href="https://github.com/AdamPlatin123/BioHermes" style="color:#e8a33d;text-decoration:none;font-weight:700">BioHermes</a>
@@ -193,7 +193,7 @@
 - **2025-02** <a href="https://github.com/AdamPlatin123/Open-Deep-Research-workflow-on-Dify">Open-Deep-Research-workflow-on-Dify</a>，320 星
 - **2025** Docling-webui、Faster-Whisper-WebUI、Fish-AI-Handbook
 - **2026** BioHermes v2、genexis-easytier、gomoku_rl_demo、Legacycode-win3.2
-- **2026-08** <a href="https://github.com/AdamPlatin123/awesome-dsh-plugins">awesome-dsh-plugins</a> 插件雷达（1355★，GitHub Trending 日榜第 22）、dsh-zcf、dsh-tonghuashun；向 unsloth / easy-dataset / hermes-agent / dsh-TUI 提交上游 PR
+- **2026-08** <a href="https://github.com/AdamPlatin123/awesome-dsh-plugins">awesome-dsh-plugins</a> 插件雷达（1417★，GitHub Trending 日榜第 22）、dsh-zcf、dsh-tonghuashun；向 unsloth / easy-dataset / hermes-agent / dsh-TUI 提交上游 PR
 
 ## Contact me
 
