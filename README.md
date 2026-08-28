@@ -11,7 +11,7 @@
   </p>
 
   <p>
-    <a href="https://github.com/AdamPlatin123/awesome-dsh-plugins"><img src="https://img.shields.io/github/stars/AdamPlatin123/awesome-dsh-plugins?label=awesome-dsh-plugins&style=social" alt="awesome-dsh-plugins stars"/></a>
+    <a href="https://github.com/AdamPlatin123/dsh-plugin-radar"><img src="https://img.shields.io/github/stars/AdamPlatin123/dsh-plugin-radar?label=dsh-plugin-radar&style=social" alt="dsh-plugin-radar stars"/></a>
     <a href="https://github.com/AdamPlatin123?tab=followers"><img src="https://img.shields.io/github/followers/AdamPlatin123?style=social" alt="followers"/></a>
     <a href="https://ghfind.com/u/adamplatin123?ref=badge"><img src="https://ghfind.com/api/badge/adamplatin123?lang=zh" alt="GitHub Roast 评分徽章"/></a>
     · Pull Shark ×3 · Quickdraw · Starstruck ×3
@@ -38,7 +38,7 @@
 <table style="border-collapse:collapse;width:100%;font-size:14px">
 <tr>
 <td style="border:1px solid #1f2c46;background:#111a2e;border-radius:8px;padding:10px 14px;width:50%;vertical-align:top">
-<a href="https://github.com/AdamPlatin123/awesome-dsh-plugins" style="color:#e8a33d;text-decoration:none;font-weight:700">awesome-dsh-plugins</a>
+<a href="https://github.com/AdamPlatin123/dsh-plugin-radar" style="color:#e8a33d;text-decoration:none;font-weight:700">dsh-plugin-radar</a>
 <span style="color:#7d8aa0;font-family:ui-monospace,Consolas,monospace;font-size:12px"> ★1426 · Python</span>
 <div style="color:#9aa7bd;margin-top:4px;line-height:1.6">DSH 插件雷达与精选榜：多路自动发现 15900+ 候选，容器运行级实测（四档判定），Top 50 人工策展。GitHub Trending 日榜第 22。</div>
 </td>
@@ -193,7 +193,7 @@
 - **2025-02** <a href="https://github.com/AdamPlatin123/Open-Deep-Research-workflow-on-Dify">Open-Deep-Research-workflow-on-Dify</a>，320 星
 - **2025** Docling-webui、Faster-Whisper-WebUI、Fish-AI-Handbook
 - **2026** BioHermes v2、genexis-easytier、gomoku_rl_demo、Legacycode-win3.2
-- **2026-08** <a href="https://github.com/AdamPlatin123/awesome-dsh-plugins">awesome-dsh-plugins</a> 插件雷达（1426★，GitHub Trending 日榜第 22）、dsh-zcf、dsh-tonghuashun；向 unsloth / easy-dataset / hermes-agent / dsh-TUI 提交上游 PR
+- **2026-08** <a href="https://github.com/AdamPlatin123/dsh-plugin-radar">dsh-plugin-radar</a> 插件雷达（1426★，GitHub Trending 日榜第 22）、dsh-zcf、dsh-tonghuashun；向 unsloth / easy-dataset / hermes-agent / dsh-TUI 提交上游 PR
 
 ## Contact me
 
