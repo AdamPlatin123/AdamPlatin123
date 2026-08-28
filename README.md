@@ -14,7 +14,7 @@
     <a href="https://github.com/AdamPlatin123/awesome-dsh-plugins"><img src="https://img.shields.io/github/stars/AdamPlatin123/awesome-dsh-plugins?label=awesome-dsh-plugins&style=social" alt="awesome-dsh-plugins stars"/></a>
     <a href="https://github.com/AdamPlatin123?tab=followers"><img src="https://img.shields.io/github/followers/AdamPlatin123?style=social" alt="followers"/></a>
     <a href="https://ghfind.com/u/adamplatin123?ref=badge"><img src="https://ghfind.com/api/badge/adamplatin123?lang=zh" alt="GitHub Roast 评分徽章"/></a>
-    · Pull Shark ×2 · Quickdraw · Starstruck ×3
+    · Pull Shark ×3 · Quickdraw · Starstruck ×3
   </p>
 
   <p>
