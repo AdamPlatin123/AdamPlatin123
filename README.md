@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&width=700&lines=Hi,+I'm+Adam.+Agents+into+real+business." alt="Hi"/>
-  <p>
+  
     <strong>Seeking Solid Contribute</strong>
   </p>
 
