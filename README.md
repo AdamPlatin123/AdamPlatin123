@@ -56,7 +56,7 @@
 <td style="border:1px solid #1f2c46;background:#111a2e;border-radius:8px;padding:10px 14px;width:50%;vertical-align:top">
 <a href="https://github.com/AdamPlatin123/BioHermes" style="color:#e8a33d;text-decoration:none;font-weight:700">BioHermes</a>
 <span style="color:#7d8aa0;font-family:ui-monospace,Consolas,monospace;font-size:12px"> Python</span>
-<div style="color:#9aa7bd;margin-top:4px;line-height:1.6">2026 MinerU 数据智能挑战赛赛道二参赛作品。基于 hermes-agent 的计算生物学 Agent：Judge→Select→Execute→Verify 四层闭环（非 ReAct/LangGraph），98 技能，Podman 沙箱 + 溯源 + L2 自愈，配套 React SPA。</div>
+<div style="color:#9aa7bd;margin-top:4px;line-height:1.6">基于 hermes-agent 的计算生物学 Agent：Judge→Select→Execute→Verify 四层闭环（非 ReAct/LangGraph），98 技能，Podman 沙箱 + 溯源 + L2 自愈，配套 React SPA。</div>
 </td>
 </tr>
 <tr>
@@ -119,40 +119,6 @@
   <code>Python</code> <code>Go</code> <code>LLM 微调</code> <code>RAG 应用</code> <code>Agent 开发</code> <code>Docker</code> <code>Linux</code> <code>Claude Code</code>
 </p>
 
----
-
-## 机器档案
-
-<details>
-<summary><b>一台笔记本 + 一台服务器 + 校园 GPU 集群，EasyTier 自建网格串联 —— 点击展开</b></summary>
-
-```
-┌──────────────────────────────────────────────────┐
-│  日常笔记本   Linux Mint 工作站                    │
-│  herdr 多终端管理 · DSH 插件开发 · 3D 打印       │
-│  _Projects 共享盘档案柜（30+ 条目）                │
-└───────────────────────┬──────────────────────────┘
-                        │ ssh
-                        ▼
-┌──────────────────────────────────────────────────┐
-│  计算服务器   Ubuntu 24.04                        │
-│  Docker 服务群：文档解析 · 模型网关 · 知识库        │
-│  远程终端 · 自托管服务 · 数据分析流水线             │
-└──────┬──────────────────────────────┬────────────┘
-       │ EasyTier 加密隧道             │ 校园实验网
-       ▼                              ▼
-  GPU 工作站集群 · 显存约 400GB    实验网工作机 · 评测服务
-       └────── 网格即达 · 节点随用随开 ──────┘
-```
-
-| 节点 | 分工 |
-|---|---|
-| **日常笔记本** · Linux Mint | 项目中枢：Claude Code 多终端协作、DSH 插件开发、竞赛提交与 Agent 工程研究；产物统一归档 _Projects 共享盘 |
-| **计算服务器** · Ubuntu 24.04 | Docker 服务群：文档解析、模型网关、知识库、远程终端、语音与数据代理；虚拟化实验与自托管服务 |
-| **GPU 工作站集群** · 显存约 400GB | 训练与推理：竞赛训练流水线、模型微调与推理服务，经管理堡垒机加密隧道接入 |
-| **自建网格** · [genexis-easytier](https://github.com/AdamPlatin123/genexis-easytier) | EasyTier 加密 mesh 串联全部节点：随时随地、上线即达、随用随开 |
-
-</details>
 
 ---
 
