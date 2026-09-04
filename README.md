@@ -1,6 +1,6 @@
 <div align="center">
-  
-    <strong>Seeking Solid Contribute</strong>
+  <p>
+    <strong>Seeking Solid Contribute.</strong>
   </p>
 
   <p>
