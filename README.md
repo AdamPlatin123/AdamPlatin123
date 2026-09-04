@@ -56,7 +56,7 @@
 <td style="border:1px solid #1f2c46;background:#111a2e;border-radius:8px;padding:10px 14px;width:50%;vertical-align:top">
 <a href="https://github.com/AdamPlatin123/BioHermes" style="color:#e8a33d;text-decoration:none;font-weight:700">BioHermes</a>
 <span style="color:#7d8aa0;font-family:ui-monospace,Consolas,monospace;font-size:12px"> Python</span>
-<div style="color:#9aa7bd;margin-top:4px;line-height:1.6">基于 hermes-agent 的计算生物学 Agent：Judge→Select→Execute→Verify 四层闭环（非 ReAct/LangGraph），98 技能，Podman 沙箱 + 溯源 + L2 自愈，配套 React SPA。</div>
+<div style="color:#9aa7bd;margin-top:4px;line-height:1.6">基于 hermes-agent 的计算生物学 Agent：Judge→Select→Execute→Verify 四层闭环（非简单ReAct/LangGraph），98 技能，Podman 沙箱 + 溯源 + L2 自愈，配套 React SPA。</div>
 </td>
 </tr>
 <tr>
