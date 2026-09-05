@@ -18,9 +18,9 @@
 → [引擎源码 engine/](https://github.com/AdamPlatin123/dsh-plugin-radar/tree/main/engine) · [架构文档](https://github.com/AdamPlatin123/dsh-plugin-radar/blob/main/docs/radar/architecture.md) · [数据契约](https://github.com/AdamPlatin123/dsh-plugin-radar/blob/main/docs/radar/data-contracts.md) · [数据接口 docs/api.md](https://github.com/AdamPlatin123/dsh-plugin-radar/blob/main/docs/api.md)
 （发现/聚合/渲染/分发引擎已开源；测试引擎在开源计划中，仓库含 CI 冒烟自证可运行）
 
-### [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) · 上游贡献者 / 维护协作
+### [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) · ★2,847 Owner / 主要维护协作者
 
-参与真实开源产品的维护与上游贡献：**已合并 PR ×20**，覆盖终端安全、便携包更新完整性、安装恢复与渲染回归。日常职责包括代码审查、问题分诊与兼容性维护。代表修复见下方「代表性上游贡献」。
+参与真实开源工具的维护与上游贡献：**已合并 PR ×20**，覆盖终端安全、便携包更新完整性、安装恢复与渲染回归。日常职责包括代码审查、问题分诊与兼容性维护。代表修复见下方「代表性上游贡献」曾登 GitHub Trending React 日榜 #7。
 
 ### [BioHermes](https://github.com/AdamPlatin123/BioHermes) · Python / React
 
