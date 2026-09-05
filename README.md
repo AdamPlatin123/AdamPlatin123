@@ -2,7 +2,9 @@
 
 **Agent Harness · Developer Tools · Open Source**
 
-大连理工大学生物信息学本科（2023–2027，2027 届）。技术主线：构建 Agent 运行环境、插件验证管线与开发者工具——关注**可靠性、安全边界与可验证执行**。
+大连理工大学生物信息学本科（2023–2027，2027 届）。技术主线：构建 Agent 运行环境、插件验证管线与开发者工具
+
+关注**可靠性、安全边界与可验证执行**。
 
 > 🔍 **求职中**：中国大陆 Agent / Harness 研发、技术型 DevRel 实习 · 2027 届校招
 > *Open to Agent/Harness R&D & tech-DevRel internships · Class of 2027.*
