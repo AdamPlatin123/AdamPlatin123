@@ -1,6 +1,9 @@
 # AdamPlatin123
 
-**Agent Harness · Developer Tools · Open Source**
+<a href="https://ghfind.com/u/adamplatin123"><img src="https://ghfind.com/api/badge/adamplatin123?lang=zh" alt="ghfind"/></a>
+
+**Agent Harness · Developer Tools · Open Source** 
+   
 
 大连理工大学生物信息学本科（2023–2027，2027 届）。技术主线：构建 Agent 运行环境、插件验证管线与开发者工具
 
@@ -108,4 +111,3 @@ Dify 深度研究工作流：多源检索 → 大纲 → 带引用的研究报�
 - GitHub：[AdamPlatin123](https://github.com/AdamPlatin123)
 - 欢迎就 Agent 工程、开发者工具、开源协作交流
 
-<p align="center"><a href="https://ghfind.com/u/adamplatin123"><img src="https://ghfind.com/api/badge/adamplatin123?lang=zh" alt="ghfind"/></a></p>
