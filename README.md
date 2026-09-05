@@ -5,6 +5,7 @@
 大连理工大学生物信息学本科（2023–2027，2027 届）。技术主线：构建 Agent 运行环境、插件验证管线与开发者工具——关注**可靠性、安全边界与可验证执行**。
 
 > 🔍 **求职中**：中国大陆 Agent / Harness 研发、技术型 DevRel 实习 · 2027 届校招
+> *Open to Agent/Harness R&D & tech-DevRel internships · Class of 2027.*
 > 📧 [AdamPlatin123@outlook.com](mailto:AdamPlatin123@outlook.com)
 
 ---
@@ -32,7 +33,7 @@ Dify 深度研究工作流：多源检索 → 大纲 → 带引用的研究报�
 
 ---
 
-## 代表性上游贡献（均已合并）
+## 代表性上游贡献（均已合并 · 跨 6 个项目）
 
 | 能力 | 修复 |
 |---|---|
@@ -41,7 +42,19 @@ Dify 深度研究工作流：多源检索 → 大纲 → 带引用的研究报�
 | 故障定位与回归验证 | [#361 首次安装错误流识别](https://github.com/ccch1mneyyy/dsh-TUI/pull/361)：ERR_PNPM_ADDING_TO_ROOT 与假成功检测 |
 | 终端渲染工程 | [#405 选中标记换行/浮层错位修复](https://github.com/ccch1mneyyy/dsh-TUI/pull/405) |
 
-→ [全部 20 个已合并 PR](https://github.com/ccch1mneyyy/dsh-TUI/pulls?q=is%3Apr+author%3AAdamPlatin123+is%3Amerged)
+→ [dsh-TUI 全部 20 个已合并 PR](https://github.com/ccch1mneyyy/dsh-TUI/pulls?q=is%3Apr+author%3AAdamPlatin123+is%3Amerged)
+
+**其他项目**（同样均已合并）
+
+| 项目 | 修复 |
+|---|---|
+| [hermes-agent](https://github.com/NousResearch/hermes-agent)（NousResearch） | [#9151](https://github.com/NousResearch/hermes-agent/pull/9151)：内存内容扫描模式对齐——安全扫描覆盖面修复 |
+| [dsh-desktop](https://github.com/dataelement/dsh-desktop)（dataelement） | [#191](https://github.com/dataelement/dsh-desktop/pull/191)：手机连接面加固（mobile connection surface hardening） |
+| [dsh-plugin-upgrade-skill](https://github.com/oh-my-dsh/dsh-plugin-upgrade-skill)（生态官方） | [#38](https://github.com/oh-my-dsh/dsh-plugin-upgrade-skill/pull/38)：升级运行时验证 runner（签名校验）· [#33](https://github.com/oh-my-dsh/dsh-plugin-upgrade-skill/pull/33)：迁移前 baseline 归因 + boot race 有界重试 |
+| [unsloth](https://github.com/unslothai/unsloth)（unslothai） | [#4987](https://github.com/unslothai/unsloth/pull/4987)：AnimatePresence 路由切换 DOM 重复修复 · [#4764](https://github.com/unslothai/unsloth/pull/4764)：缓存模型推理 loading 文案纠正 |
+| [easy-dataset](https://github.com/ConardLi/easy-dataset)（ConardLi） | [#678](https://github.com/ConardLi/easy-dataset/pull/678)：provider 选择 UI 与资源改进 · [#680](https://github.com/ConardLi/easy-dataset/pull/680)：交互逻辑优化 |
+
+→ [全部已合并上游 PR 检索](https://github.com/pulls?q=is%3Apr+author%3AAdamPlatin123+is%3Amerged+-user%3AAdamPlatin123+-user%3Adsh-external)
 
 ---
 
@@ -92,3 +105,5 @@ Dify 深度研究工作流：多源检索 → 大纲 → 带引用的研究报�
 - Email：[AdamPlatin123@outlook.com](mailto:AdamPlatin123@outlook.com)
 - GitHub：[AdamPlatin123](https://github.com/AdamPlatin123)
 - 欢迎就 Agent 工程、开发者工具、开源协作交流
+
+<p align="center"><a href="https://ghfind.com/u/adamplatin123"><img src="https://ghfind.com/api/badge/adamplatin123?lang=zh" alt="ghfind"/></a></p>
