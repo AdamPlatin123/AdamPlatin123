@@ -1,167 +1,94 @@
-<div align="center">
-  <p>
-    <strong>Seeking Solid Contribute.</strong>
-  </p>
+# 穆伟豪 · Weihao Mu
 
-  <p>
-    <code>Agent 工程</code>
-    <code>开发者工具</code>
-    <code>AI × Bioinfo</code>
-  </p>
+**Agent Harness · Developer Tools · Open Source**
 
-  <p>
-    <a href="https://github.com/AdamPlatin123/dsh-plugin-radar"><img src="https://img.shields.io/github/stars/AdamPlatin123/dsh-plugin-radar?label=dsh-plugin-radar&style=social" alt="dsh-plugin-radar stars"/></a>
-    <a href="https://github.com/AdamPlatin123?tab=followers"><img src="https://img.shields.io/github/followers/AdamPlatin123?style=social" alt="followers"/></a>
-    <a href="https://ghfind.com/u/adamplatin123?ref=badge"><img src="https://ghfind.com/api/badge/adamplatin123?lang=zh" alt="GitHub Roast 评分徽章"/></a>
-    · Pull Shark ×3 · Quickdraw · Starstruck ×3
-  </p>
+大连理工大学生物信息学本科（2023–2027，2027 届）。技术主线：构建 Agent 运行环境、插件验证管线与开发者工具——关注**可靠性、安全边界与可验证执行**。
 
-  <p>
-    <a href="https://ghfind.com/u/adamplatin123">
-      <a href="https://ghfind.com/u/adamplatin123?ref=badge">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/adamplatin123?theme=dark&lang=zh" />
-    <img src="https://ghfind.com/api/card/mini/adamplatin123?theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
-  </picture>
-</a>
-    </a>
-  </p>
-</div>
+> 🔍 **求职中**：中国大陆 Agent / Harness 研发、技术型 DevRel 实习 · 2027 届校招
+> 📧 [AdamPlatin123@outlook.com](mailto:AdamPlatin123@outlook.com)
 
 ---
 
-## 代码工作
+## 精选工程
 
-### 代表作
+### [dsh-plugin-radar](https://github.com/AdamPlatin123/dsh-plugin-radar) · ★1,448 · Python/Shell
 
-<table style="border-collapse:collapse;width:100%;font-size:14px">
-<tr>
-<td style="border:1px solid #1f2c46;background:#111a2e;border-radius:8px;padding:10px 14px;width:50%;vertical-align:top">
-<a href="https://github.com/AdamPlatin123/dsh-plugin-radar" style="color:#e8a33d;text-decoration:none;font-weight:700">dsh-plugin-radar</a>
-<span style="color:#7d8aa0;font-family:ui-monospace,Consolas,monospace;font-size:12px"> ★1426 · Python</span>
-<div style="color:#9aa7bd;margin-top:4px;line-height:1.6">DSH 插件雷达与精选榜：多路自动发现 15900+ 候选，容器运行级实测（四档判定），Top 50 人工策展。GitHub Trending 日榜第 22。</div>
-</td>
-<td style="border:1px solid #1f2c46;background:#111a2e;border-radius:8px;padding:10px 14px;width:50%;vertical-align:top">
-<a href="https://github.com/AdamPlatin123/dsh-zcf" style="color:#e8a33d;text-decoration:none;font-weight:700">dsh-zcf</a> ·
-<a href="https://github.com/AdamPlatin123/dsh-tonghuashun" style="color:#e8a33d;text-decoration:none;font-weight:700">dsh-tonghuashun</a>
-<div style="color:#9aa7bd;margin-top:4px;line-height:1.6">DSH 生态工具链：一键零配置安装向导（npm 发版）+ 同花顺风格客户端皮肤插件（按官方 cordis.patch.yml 流程开发）。</div>
-</td>
-</tr>
-<tr>
-<td style="border:1px solid #1f2c46;background:#111a2e;border-radius:8px;padding:10px 14px;width:50%;vertical-align:top">
-<a href="https://github.com/AdamPlatin123/Open-Deep-Research-workflow-on-Dify" style="color:#e8a33d;text-decoration:none;font-weight:700">Open-Deep-Research-workflow-on-Dify</a>
-<span style="color:#7d8aa0;font-family:ui-monospace,Consolas,monospace;font-size:12px"> ★320 · fork 60</span>
-<div style="color:#9aa7bd;margin-top:4px;line-height:1.6">Dify 深度研究工作流，被广泛 fork；已被 Awesome-Dify-Workflow（10.8k★）收录并署名。</div>
-</td>
-<td style="border:1px solid #1f2c46;background:#111a2e;border-radius:8px;padding:10px 14px;width:50%;vertical-align:top">
-<a href="https://github.com/AdamPlatin123/BioHermes" style="color:#e8a33d;text-decoration:none;font-weight:700">BioHermes</a>
-<span style="color:#7d8aa0;font-family:ui-monospace,Consolas,monospace;font-size:12px"> Python</span>
-<div style="color:#9aa7bd;margin-top:4px;line-height:1.6">基于 hermes-agent 的计算生物学 Agent：Judge→Select→Execute→Verify 四层闭环（非简单ReAct/LangGraph），98 技能，Podman 沙箱 + 溯源 + L2 自愈，配套 React SPA。</div>
-</td>
-</tr>
-<tr>
-<td style="border:1px solid #1f2c46;background:#111a2e;border-radius:8px;padding:10px 14px;width:50%;vertical-align:top">
-<a href="https://github.com/AdamPlatin123/gomoku_rl_demo" style="color:#e8a33d;text-decoration:none;font-weight:700">gomoku_rl_demo</a>
-<span style="color:#7d8aa0;font-family:ui-monospace,Consolas,monospace;font-size:12px"> Python</span>
-<div style="color:#9aa7bd;margin-top:4px;line-height:1.6">五子棋 AlphaZero 训练演示：残差策略价值网络 + MCTS，自我对弈实时可视化，三模式 GPU 切换。</div>
-</td>
-<td style="border:1px solid #1f2c46;background:#111a2e;border-radius:8px;padding:10px 14px;width:50%;vertical-align:top">
-<a href="https://github.com/AdamPlatin123/Legacycode-win3.2" style="color:#e8a33d;text-decoration:none;font-weight:700">Legacycode-win3.2</a>
-<span style="color:#7d8aa0;font-family:ui-monospace,Consolas,monospace;font-size:12px"> Python</span>
-<div style="color:#9aa7bd;margin-top:4px;line-height:1.6">QEMU 虚拟串口 + Python Bridge + claude CLI，让 Claude 住进 1994 年的中文 Windows 3.2。</div>
-</td>
-</tr>
-<tr>
-<td style="border:1px solid #1f2c46;background:#111a2e;border-radius:8px;padding:10px 14px;width:50%;vertical-align:top">
-<a href="https://github.com/AdamPlatin123/Docling-webui" style="color:#e8a33d;text-decoration:none;font-weight:700">Docling-webui</a> <span style="color:#7d8aa0;font-family:ui-monospace,Consolas,monospace;font-size:12px"> ★12</span> ·
-<a href="https://github.com/AdamPlatin123/Faster-Whisper-WebUI" style="color:#e8a33d;text-decoration:none;font-weight:700">Faster-Whisper-WebUI</a> <span style="color:#7d8aa0;font-family:ui-monospace,Consolas,monospace;font-size:12px"> ★6</span>
-<div style="color:#9aa7bd;margin-top:4px;line-height:1.6">文档解析与语音转写的开箱即用 Web 界面，给不想碰命令行的人。</div>
-</td>
-<td style="border:1px solid #1f2c46;background:#111a2e;border-radius:8px;padding:10px 14px;width:50%;vertical-align:top">
-<a href="https://github.com/AdamPlatin123/claude-code-print-skill" style="color:#e8a33d;text-decoration:none;font-weight:700">claude-code-print-skill</a> ·
-<a href="https://github.com/AdamPlatin123/claude-code-installer" style="color:#e8a33d;text-decoration:none;font-weight:700">claude-code-installer</a> ·
-<a href="https://github.com/AdamPlatin123/Fish-AI-Handbook" style="color:#e8a33d;text-decoration:none;font-weight:700">Fish-AI-Handbook</a>
-<div style="color:#9aa7bd;margin-top:4px;line-height:1.6">打印 PDF、零依赖安装、大模型入门手册，实用向的小工具和和朋友们合写的书。</div>
-</td>
-</tr>
-</table>
+独立构建的 **DeepSeek Harness 插件生态验证管线**：多源发现（GitHub/npm，18,000+ 候选仓库）→ 仓库身份归一去重 → **Kubernetes 隔离执行（一插件一 pod，累计 13,000+ 次运行级测试，覆盖 9,200+ 已定位仓库）** → 结果分类与 15 分钟快照发布。GitHub 上的插件目录由管线自动生成，非人工清单；判定数据经 schema 稳定接口（`dsh-radar/v1`）供插件市场与社区清单直接消费。曾登 GitHub Trending 日榜 #22。
 
----
-<table>
-<tr>
-<td valign="top" width="50%">
+→ [引擎源码 engine/](https://github.com/AdamPlatin123/dsh-plugin-radar/tree/main/engine) · [架构文档](https://github.com/AdamPlatin123/dsh-plugin-radar/blob/main/docs/radar/architecture.md) · [数据契约](https://github.com/AdamPlatin123/dsh-plugin-radar/blob/main/docs/radar/data-contracts.md) · [数据接口 docs/api.md](https://github.com/AdamPlatin123/dsh-plugin-radar/blob/main/docs/api.md)
+（发现/聚合/渲染/分发引擎已开源；测试引擎在开源计划中，仓库含 CI 冒烟自证可运行）
 
-#### 教育 · 科研
+### [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) · 上游贡献者 / 维护协作
 
-- **大连理工大学**（2023-2027）· 校人工智能社团技术负责人 · 生物信息学
-- **高校课题组科研**：LLM 数据算法优化与 AI 教育应用，两项软件著作权
-- **牛津大学 Genexis 团队**：多组学数据预训练模型微调 · BioClaw 自动化 AGENT SaaS · 产出 LLM 学术检索方向发明专利 2 项（第一发明人，已受理并通过初审）
-- **企业合作项目**：AI 应用开发，本地大模型长文本处理工具与服务器基础设施优化
+参与真实开源产品的维护与上游贡献：**已合并 PR ×20**，覆盖终端安全、便携包更新完整性、安装恢复与渲染回归。日常职责包括代码审查、问题分诊与兼容性维护。代表修复见下方「代表性上游贡献」。
 
-</td>
-<td valign="top" width="48%">
+### [BioHermes](https://github.com/AdamPlatin123/BioHermes) · Python / React
 
-#### 荣誉 · 专利
+计算生物学科研 Agent：**Judge → Select → Execute → Verify 四层执行闭环**——任务可执行性判定、98 项技能选择、Podman 沙箱执行、带溯源的输出验证与二级自愈恢复，配套 React SPA 前端；PBMC3k 场景无人值守验收。源码整理中，可按需提供架构说明、演示与验收记录。
 
-> [View Awards →](https://github.com/AdamPlatin123/AdamPlatin123/blob/main/AWARDS.md)
+### [Open-Deep-Research-workflow-on-Dify](https://github.com/AdamPlatin123/Open-Deep-Research-workflow-on-Dify) · ★320
 
-- **科大讯飞医疗咨询问答优化算法挑战赛 冠军**（队长）
-- **中国高校计算机大赛（CCCC）AIGC 创新赛 全国三等奖**（队长）
-- **信通院"光华杯"智慧教育专题赛 全国二等奖**
-- 中国国际大学生创新大赛 省级银奖
-- 大创国家级 ×2（队长）·  软著 2 项 · **发明专利 2 项（第一发明人，已受理并通过初审）**
-
-</td>
-</tr>
-</table>
-
-<p>
-  <code>Python</code> <code>Go</code> <code>LLM 微调</code> <code>RAG 应用</code> <code>Agent 开发</code> <code>Docker</code> <code>Linux</code> <code>Claude Code</code>
-</p>
-
+Dify 深度研究工作流：多源检索 → 大纲 → 带引用的研究报告。被 [Awesome-Dify-Workflow（10.8k★）](https://github.com/svcvit/Awesome-Dify-Workflow)收录并署名：[收录提交](https://github.com/svcvit/Awesome-Dify-Workflow/commit/565ad61a6dcb564a158ddb420a47e058af9468a0)。
 
 ---
 
+## 代表性上游贡献（均已合并）
 
-
-### 竞赛履历
-
-| 时间 | 竞赛 / 奖项 | 角色 |
-|---|---|---|
-| 2025.11 | 科大讯飞 医疗咨询问答优化算法挑战赛 冠军 | 队长 |
-| 2026.02 | 信通院"光华杯"智慧教育专题赛 全国二等奖（联通合作项目） | 参赛 |
-| 2024.08 | 中国高校计算机大赛（CCCC）AIGC 创新赛 全国三等奖 | 队长 |
-| 2025.08 | 中国国际大学生创新大赛（辽宁赛区）省级银奖 | 队长 |
-| 2024.02 | 美国大学生数学竞赛（美赛）H 奖 | 队长 |
-| 2025-2027 | 大学生创新创业训练计划 国家级 ×2 | 队长 |
-
----
-
-## _Projects 档案柜
-
-> 共享盘上的项目仓库，按主题归档，多数在持续维护。
-
-| 主题 | 内容 |
+| 能力 | 修复 |
 |---|---|
-| **行业项目** | 头部国企文本合作项目（AI 应用开发：长文本处理工具 + RAG 文档解析）；LCCPA 肺癌症状预警处置系统（企业微信 H5 调研组件 + 规则引擎 + GPU OCR，Fastify + PGlite + React 19）；Tron-Copilot 产品文档；OPC-taskboard（给"一人公司"做的交付凭证层，AGPL 生成器 + MIT 规范） |
-| **竞赛** | GenMind 基因组医学模型微调；AerogelAI 气动预测；CP-TCG / KDBURI / LIBS-CBCV；FullAutoAgent 全自动项目长程优化系统 |
-| **学术** | 冷启动-学术（不确定性研究论文，LaTeX 全流程）；pbmc 单细胞转录组分析；biohermes（计算生物学 Agent，98 技能，PBMC3k 无人值守验收，BiomniBench 开源SOTA ）；AI教育（双轨大学深度研究报告、deep-research-studio） |
-| **基建** | run-ml-competition（竞赛流水线 harness，agents/SKILL.md）；system-image（vm-deploy + RustDesk 部署）；easytier-test；GPU-research（Qwen3.6-MinerU 选型调研） |
-| **玩** | LegacyCode（Windows 3.2 + Agent 复古项目）；chat-Linux（从微信信息蒸馏自己 + MCP 服务）；3D 打印（Bambu N30 电机座参数化模型）；Minecraft 模组服 |
+| 安全边界 | [#584 终端 OSC 注入防护](https://github.com/ccch1mneyyy/dsh-TUI/pull/584)：出口净化 / scheme 门禁 |
+| 发布与更新可靠性 | [#585 便携包更新链完整性](https://github.com/ccch1mneyyy/dsh-TUI/pull/585)：SHA256 校验 / 流式限额 / 解压树校验 |
+| 故障定位与回归验证 | [#361 首次安装错误流识别](https://github.com/ccch1mneyyy/dsh-TUI/pull/361)：ERR_PNPM_ADDING_TO_ROOT 与假成功检测 |
+| 终端渲染工程 | [#405 选中标记换行/浮层错位修复](https://github.com/ccch1mneyyy/dsh-TUI/pull/405) |
+
+→ [全部 20 个已合并 PR](https://github.com/ccch1mneyyy/dsh-TUI/pulls?q=is%3Apr+author%3AAdamPlatin123+is%3Amerged)
 
 ---
 
-## 时间线
+## 教育与经历
 
-- **2023-12** 注册 GitHub，从 GeminiProChat fork 开始
-- **2024** 泡在 Dify / FastGPT 生态里，攒工作流
-- **2025-02** <a href="https://github.com/AdamPlatin123/Open-Deep-Research-workflow-on-Dify">Open-Deep-Research-workflow-on-Dify</a>，320 星
-- **2025** Docling-webui、Faster-Whisper-WebUI、Fish-AI-Handbook
-- **2026** BioHermes v2、genexis-easytier、gomoku_rl_demo、Legacycode-win3.2
-- **2026-08** <a href="https://github.com/AdamPlatin123/dsh-plugin-radar">dsh-plugin-radar</a> 插件雷达（1426★，GitHub Trending 日榜第 22）、dsh-zcf、dsh-tonghuashun；向 unsloth / easy-dataset / hermes-agent / dsh-TUI 提交上游 PR
+- **大连理工大学** 生物信息学 本科（2023–2027）· 校人工智能社团技术负责人（2024–2026）
+- **高校课题组**：LLM 数据算法优化与 AI 教育应用 · 软件著作权 2 项
+- **Genexis 研究团队**（跨校合作）：多组学数据预训练模型微调 · 产出发明专利 2 项（第一发明人，已受理并通过初审）
+- **企业合作项目**：AI 应用开发——本地大模型长文本处理工具与服务器基础设施优化
 
-## Contact me
+## 主要荣誉
 
-- Email：AdamPlatin123@outlook.com
-- GitHub：https://github.com/AdamPlatin123
-- 欢迎就 LLM 应用、竞赛、开源协作交流
+- 科大讯飞医疗咨询问答优化算法挑战赛 **冠军**（队长）
+- 中国高校计算机大赛（CCCC）AIGC 创新赛 **全国三等奖**（队长）
+- 信通院「光华杯」智慧教育专题赛 **全国二等奖**
+- 国家级大创 **2 项**（其中 1 项任队长）· 软著 2 项 · 发明专利 2 项（第一发明人）
+
+完整清单见 [AWARDS.md](AWARDS.md)。
+
+## 技能
+
+`Python` `TypeScript / Node.js` `React` `Shell` `Linux` `容器 / Kubernetes` `LLM 微调` `RAG` `Agent 开发`
+
+---
+
+<details>
+<summary><b>更多项目与时间线</b></summary>
+
+**生态工具链**：[dsh-zcf](https://github.com/AdamPlatin123/dsh-zcf)（DSH 一键零配置安装向导，npm 发版）· [dsh-tonghuashun](https://github.com/AdamPlatin123/dsh-tonghuashun)（同花顺风格客户端皮肤，按官方 cordis.patch.yml 流程开发）
+
+**实验与兴趣**：[gomoku_rl_demo](https://github.com/AdamPlatin123/gomoku_rl_demo)（AlphaZero 五子棋：残差策略价值网络 + MCTS + 自我对弈可视化）· [Legacycode-win3.2](https://github.com/AdamPlatin123/Legacycode-win3.2)（QEMU 虚拟串口 + Python Bridge，让 Claude 住进 1994 年的中文 Windows 3.2）· [Docling-webui](https://github.com/AdamPlatin123/Docling-webui) / [Faster-Whisper-WebUI](https://github.com/AdamPlatin123/Faster-Whisper-WebUI)（文档解析与语音转写开箱即用界面）
+
+**小工具**：[claude-code-print-skill](https://github.com/AdamPlatin123/claude-code-print-skill) · [claude-code-installer](https://github.com/AdamPlatin123/claude-code-installer) · [Fish-AI-Handbook](https://github.com/AdamPlatin123/Fish-AI-Handbook)（与朋友合写）
+
+**时间线**
+
+- 2023-12 注册 GitHub · 2024 Dify / FastGPT 生态工作流
+- 2025-02 Open-Deep-Research-workflow-on-Dify（320★）
+- 2026 BioHermes · gomoku_rl_demo · Legacycode-win3.2
+- 2026-08 dsh-plugin-radar（1,448★）· dsh-zcf / dsh-tonghuashun · 上游 PR（dsh-TUI ×20 等）
+
+</details>
+
+---
+
+## Contact
+
+- Email：[AdamPlatin123@outlook.com](mailto:AdamPlatin123@outlook.com)
+- GitHub：[AdamPlatin123](https://github.com/AdamPlatin123)
+- 欢迎就 Agent 工程、开发者工具、开源协作交流
