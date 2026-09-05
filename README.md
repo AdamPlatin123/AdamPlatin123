@@ -4,7 +4,7 @@
 
 大连理工大学生物信息学本科（2023–2027，2027 届）。技术主线：构建 Agent 运行环境、插件验证管线与开发者工具
 
-关注**可靠性、安全边界与可验证执行**。
+**可靠性、安全边界与可验证执行**。
 
 > 🔍 **求职中**：中国大陆 Agent / Harness 研发、技术型 DevRel 实习 · 2027 届校招
 > *Open to Agent/Harness R&D & tech-DevRel internships · Class of 2027.*
@@ -14,28 +14,28 @@
 
 ## 精选工程
 
-### [dsh-plugin-radar](https://github.com/AdamPlatin123/dsh-plugin-radar) · ★1,448 · Python/Shell
+### [dsh-plugin-radar](https://github.com/AdamPlatin123/dsh-plugin-radar) · ★1,448 Owner · Python/Shell
 
 独立构建的 **DeepSeek Harness 插件生态验证管线**：多源发现（GitHub/npm，18,000+ 候选仓库）→ 仓库身份归一去重 → **Kubernetes 隔离执行（一插件一 pod，累计 13,000+ 次运行级测试，覆盖 9,200+ 已定位仓库）** → 结果分类与 15 分钟快照发布。GitHub 上的插件目录由管线自动生成，非人工清单；判定数据经 schema 稳定接口（`dsh-radar/v1`）供插件市场与社区清单直接消费。曾登 GitHub Trending 日榜 #22。
 
 → [引擎源码 engine/](https://github.com/AdamPlatin123/dsh-plugin-radar/tree/main/engine) · [架构文档](https://github.com/AdamPlatin123/dsh-plugin-radar/blob/main/docs/radar/architecture.md) · [数据契约](https://github.com/AdamPlatin123/dsh-plugin-radar/blob/main/docs/radar/data-contracts.md) · [数据接口 docs/api.md](https://github.com/AdamPlatin123/dsh-plugin-radar/blob/main/docs/api.md)
 （发现/聚合/渲染/分发引擎已开源；测试引擎在开源计划中，仓库含 CI 冒烟自证可运行）
 
-### [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) · ★2,847 Owner / 主要维护协作者
+### [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) · ★2,847 Owner / 主要协作者 · Python/React
 
-参与真实开源工具的维护与上游贡献：**已合并 PR ×20**，覆盖终端安全、便携包更新完整性、安装恢复与渲染回归。日常职责包括代码审查、问题分诊与兼容性维护。代表修复见下方「代表性上游贡献」曾登 GitHub Trending React 日榜 #7。
+**已合并 PR ×20**，覆盖终端安全、便携包更新完整性、安装恢复与渲染回归。日常职责包括代码审查、问题分诊与兼容性维护。代表修复见下方「代表性上游贡献」，曾登 GitHub Trending React 日榜 #7。
 
 ### [BioHermes](https://github.com/AdamPlatin123/BioHermes) · Python / React
 
-计算生物学科研 Agent：**Judge → Select → Execute → Verify 四层执行闭环**——任务可执行性判定、98 项技能选择、Podman 沙箱执行、带溯源的输出验证与二级自愈恢复，配套 React SPA 前端；PBMC3k 场景无人值守验收。源码整理中，可按需提供架构说明、演示与验收记录。
+面向单服务器-多用户的计算生物学科研 Agent：**Judge → Select → Execute → Verify 四层执行闭环**——任务可执行性判定、98 项技能选择、Podman 沙箱执行、带溯源的输出验证与二级自愈恢复，配套 React SPA 前端；PBMC3k 场景无人值守验收。源码整理中，可按需提供架构说明、演示与验收记录。
 
-### [Open-Deep-Research-workflow-on-Dify](https://github.com/AdamPlatin123/Open-Deep-Research-workflow-on-Dify) · ★320
+### [Open-Deep-Research-workflow-on-Dify](https://github.com/AdamPlatin123/Open-Deep-Research-workflow-on-Dify) · ★320 Owner · Yaml
 
 Dify 深度研究工作流：多源检索 → 大纲 → 带引用的研究报告。被 [Awesome-Dify-Workflow（10.8k★）](https://github.com/svcvit/Awesome-Dify-Workflow)收录并署名：[收录提交](https://github.com/svcvit/Awesome-Dify-Workflow/commit/565ad61a6dcb564a158ddb420a47e058af9468a0)。
 
 ---
 
-## 代表性上游贡献（均已合并 · 跨 6 个项目）
+## 代表性上游贡献
 
 | 能力 | 修复 |
 |---|---|
@@ -46,7 +46,7 @@ Dify 深度研究工作流：多源检索 → 大纲 → 带引用的研究报�
 
 → [dsh-TUI 全部 20 个已合并 PR](https://github.com/ccch1mneyyy/dsh-TUI/pulls?q=is%3Apr+author%3AAdamPlatin123+is%3Amerged)
 
-**其他项目**（同样均已合并）
+**其他项目**
 
 | 项目 | 修复 |
 |---|---|
@@ -78,7 +78,7 @@ Dify 深度研究工作流：多源检索 → 大纲 → 带引用的研究报�
 
 ## 技能
 
-`Python` `TypeScript / Node.js` `React` `Shell` `Linux` `容器 / Kubernetes` `LLM 微调` `RAG` `Agent 开发`
+`LLM 微调` `RAG` `Agent Workflow→Loop→Harness 开发` `Python` `TypeScript / Node.js` `React` `Shell` `Linux` `容器 / Kubernetes` 
 
 ---
 
@@ -96,7 +96,7 @@ Dify 深度研究工作流：多源检索 → 大纲 → 带引用的研究报�
 - 2023-12 注册 GitHub · 2024 Dify / FastGPT 生态工作流
 - 2025-02 Open-Deep-Research-workflow-on-Dify（320★）
 - 2026 BioHermes · gomoku_rl_demo · Legacycode-win3.2
-- 2026-08 dsh-plugin-radar（1,448★）· dsh-zcf / dsh-tonghuashun · 上游 PR（dsh-TUI ×20 等）
+- 2026-08 dsh-plugin-radar（1,448★）· dsh-TUI · （★2,847） dsh-zcf （first month download：8000+） / dsh-tonghuashun
 
 </details>
 
