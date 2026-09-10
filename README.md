@@ -97,6 +97,7 @@ Dify 深度研究工作流：多源检索 → 大纲 → 带引用的研究报�
 **时间线**
 
 - 2023-12 注册 GitHub · 2024 Dify / FastGPT 生态工作流
+- 2024-09 大一起即以 Claude API + Gradio 构建 LLM 对话应用（多轮对话 + 文件上传）
 - 2025-02 Open-Deep-Research-workflow-on-Dify（320★）
 - 2026 BioHermes · gomoku_rl_demo · Legacycode-win3.2
 - 2026-08 dsh-plugin-radar（1,448★）· dsh-TUI · （★2,847） dsh-zcf （first month download：8000+） / dsh-tonghuashun
