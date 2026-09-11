@@ -1,7 +1,5 @@
 # AdamPlatin123
 
-<a href="https://ghfind.com/u/adamplatin123"><img src="https://ghfind.com/api/badge/adamplatin123?lang=zh" alt="ghfind"/></a>
-
 **Agent Harness · Developer Tools · Open Source** 
    
 
