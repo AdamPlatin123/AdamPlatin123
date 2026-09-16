@@ -2,7 +2,7 @@
 
 **Agent Harness · Developer Tools · Open Source**
 
-Undergraduate in Bioinformatics at Dalian University of Technology (2023–2027, class of 2027). My technical throughline: building agent runtimes, plugin verification pipelines, and developer tooling around **reliability, security boundaries, and verifiable execution**.
+Undergraduate in Bioinformatics at DUT (2023–2027, class of 2027). My technical throughline: building agent runtimes, plugin verification pipelines, and developer tooling around **reliability, security boundaries, and verifiable execution**.
 
 > 🔍 **Open to work**: Agent / Harness R&D and tech-DevRel internships in mainland China · class-of-2027 campus hiring
 > 📧 [AdamPlatin123@outlook.com](mailto:AdamPlatin123@outlook.com)
@@ -22,13 +22,16 @@ Independently built **verification pipeline for the DeepSeek Harness plugin ecos
 
 **21 merged PRs** spanning terminal security, portable-package update integrity, install recovery, and rendering regressions. Day-to-day responsibilities include code review, issue triage, and compatibility maintenance. Representative fixes are listed under *Representative Upstream Contributions* below. Reached GitHub Trending (React) daily #7.
 
-### [BioHermes](https://github.com/AdamPlatin123/BioHermes) · Python / React
-
-Research agent for computational biology on single-server, multi-user setups: a **Judge → Select → Execute → Verify four-stage execution loop** — task feasibility judging, 98-skill selection, Podman-sandboxed execution, provenance-carrying output verification, and second-level self-recovery, with a React SPA frontend; passed unattended acceptance on the PBMC3k scenario. Source being tidied for release; architecture notes, demos, and acceptance records available on request.
 
 ### [Open-Deep-Research-workflow-on-Dify](https://github.com/AdamPlatin123/Open-Deep-Research-workflow-on-Dify) · ★322 · Owner · YAML
 
 Deep-research workflow on Dify: multi-source retrieval → outline → cited research report. Included with attribution in [Awesome-Dify-Workflow (10.8k★)](https://github.com/svcvit/Awesome-Dify-Workflow): [inclusion commit](https://github.com/svcvit/Awesome-Dify-Workflow/commit/565ad61a6dcb564a158ddb420a47e058af9468a0).
+
+
+### [BioHermes](https://github.com/AdamPlatin123/BioHermes) · Python / React
+
+Research agent for computational biology on single-server, multi-user setups: a **Judge → Select → Execute → Verify four-stage execution loop** — task feasibility judging, 98-skill selection, Podman-sandboxed execution, provenance-carrying output verification, and second-level self-recovery, with a React SPA frontend; passed unattended acceptance on the PBMC3k scenario. Source being tidied for release; architecture notes, demos, and acceptance records available on request.
+
 
 ---
 
@@ -59,7 +62,7 @@ Deep-research workflow on Dify: multi-source retrieval → outline → cited res
 
 ## Education & Experience
 
-- **Dalian University of Technology**, B.Eng.-track Bioinformatics (2023–2027) · tech lead of the campus AI society (2024–2026)
+- **DUT**, B.Eng.-track Bioinformatics (2023–2027) · tech lead of the campus AI society (2024–2026)
 - **University research group**: LLM data-algorithm optimization and AI-in-education applications · 2 registered software copyrights
 - **Genexis research team** (cross-university): multi-omics pretrained-model fine-tuning · 2 invention patents filed as **first inventor** (accepted, preliminary examination passed)
 - **Industry collaboration**: AI application development — long-document processing tools on locally deployed models, plus server-infrastructure optimization
