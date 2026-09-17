@@ -11,16 +11,16 @@ Undergraduate in Bioinformatics at DUT (2023–2027, class of 2027). My technica
 
 ## Featured Engineering
 
-### [dsh-plugin-radar](https://github.com/AdamPlatin123/dsh-plugin-radar) · ★1,468 · Owner · Python/Shell
+### [dsh-plugin-radar](https://github.com/AdamPlatin123/dsh-plugin-radar) · ★1,470 · Owner · Python/Shell
 
 Independently built **verification pipeline for the DeepSeek Harness plugin ecosystem**: multi-source discovery (GitHub/npm, 18,000+ candidate repos) → identity normalization & deduplication → **Kubernetes-isolated execution (one pod per plugin; 13,000+ cumulative runtime-level tests across 9,200+ located repos)** → result classification with 15-minute snapshot publishing. The plugin directory on GitHub is pipeline-generated, not a hand-curated list; verdicts are exposed through a schema-stable interface (`dsh-radar/v1`) that plugin marketplaces and community lists consume directly. Reached GitHub Trending daily #22.
 
 → [Engine source engine/](https://github.com/AdamPlatin123/dsh-plugin-radar/tree/main/engine) · [Architecture doc](https://github.com/AdamPlatin123/dsh-plugin-radar/blob/main/docs/radar/architecture.md) · [Data contracts](https://github.com/AdamPlatin123/dsh-plugin-radar/blob/main/docs/radar/data-contracts.md) · [Data API docs/api.md](https://github.com/AdamPlatin123/dsh-plugin-radar/blob/main/docs/api.md)
 (Discovery/aggregation/rendering/distribution engines are open-sourced; the test engine is on the open-sourcing roadmap — the repo ships CI smoke tests as runnable self-evidence.)
 
-### [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) · ★3,054 · Admin / Core Maintainer · Python/React
+### [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) · ★3,079 · Admin / Core Maintainer · Python/React
 
-**21 merged PRs** spanning terminal security, portable-package update integrity, install recovery, and rendering regressions. Day-to-day responsibilities include code review, issue triage, and compatibility maintenance. Representative fixes are listed under *Representative Upstream Contributions* below. Reached GitHub Trending (React) daily #7.
+**22 merged PRs** spanning terminal security, portable-package update integrity, install recovery, and rendering regressions. Day-to-day responsibilities include code review, issue triage, and compatibility maintenance. Representative fixes are listed under *Representative Upstream Contributions* below. Reached GitHub Trending (React) daily #7.
 
 
 ### [Open-Deep-Research-workflow-on-Dify](https://github.com/AdamPlatin123/Open-Deep-Research-workflow-on-Dify) · ★322 · Owner · YAML
@@ -44,7 +44,7 @@ Research agent for computational biology on single-server, multi-user setups: a 
 | Failure diagnosis & regression | [#361 first-install error-stream detection](https://github.com/ccch1mneyyy/dsh-TUI/pull/361): ERR_PNPM_ADDING_TO_ROOT & false-success detection |
 | Terminal rendering | [#405 selection-marker wrapping / overlay misalignment fix](https://github.com/ccch1mneyyy/dsh-TUI/pull/405) |
 
-→ [All 21 merged dsh-TUI PRs](https://github.com/ccch1mneyyy/dsh-TUI/pulls?q=is%3Apr+author%3AAdamPlatin123+is%3Amerged)
+→ [All 22 merged dsh-TUI PRs](https://github.com/ccch1mneyyy/dsh-TUI/pulls?q=is%3Apr+author%3AAdamPlatin123+is%3Amerged)
 
 **Other projects**
 
@@ -96,7 +96,7 @@ Full list in [AWARDS.md](AWARDS.md).
 - 2023-12 Joined GitHub · 2024 Dify / FastGPT ecosystem workflows
 - 2025-02 Open-Deep-Research-workflow-on-Dify (322★)
 - 2026 BioHermes · gomoku_rl_demo · Legacycode-win3.2
-- 2026-08 dsh-plugin-radar (1,468★) · dsh-TUI (3,054★, 21 merged PRs, Admin) · dsh-zcf (7,800+ downloads) · dsh-tonghuashun
+- 2026-08 dsh-plugin-radar (1,470★) · dsh-TUI (3,079★, 21 merged PRs, Admin) · dsh-zcf (7,800+ downloads) · dsh-tonghuashun
 
 </details>
 
