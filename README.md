@@ -96,7 +96,7 @@ Full list in [AWARDS.md](AWARDS.md).
 - 2023-12 Joined GitHub · 2024 Dify / FastGPT ecosystem workflows
 - 2025-02 Open-Deep-Research-workflow-on-Dify (322★)
 - 2026 BioHermes · gomoku_rl_demo · Legacycode-win3.2
-- 2026-08 dsh-plugin-radar (1,470★) · dsh-TUI (3,079★, 21 merged PRs, Admin) · dsh-zcf (7,800+ downloads) · dsh-tonghuashun
+- 2026-08 dsh-plugin-radar (1,470★) · dsh-TUI (3,079★, 22 merged PRs, Admin) · dsh-zcf (7,800+ downloads) · dsh-tonghuashun
 
 </details>
 
