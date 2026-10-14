@@ -11,19 +11,19 @@ Undergraduate in Bioinformatics at DUT (2023–2027, class of 2027). My technica
 
 ## Featured Engineering
 
-### [dsh-plugin-radar](https://github.com/AdamPlatin123/dsh-plugin-radar) · ★1,464 · Owner · Python/Shell
+### [dsh-plugin-radar](https://github.com/AdamPlatin123/dsh-plugin-radar) · ★1,474 · Owner · Python/Shell
 
 Independently built **verification pipeline for the DeepSeek Harness plugin ecosystem**: multi-source discovery (GitHub/npm, 22,000+ candidate repos) → identity normalization & deduplication → **Kubernetes-isolated execution (one pod per plugin; 13,000+ cumulative runtime-level tests across 9,200+ located repos)** → result classification with 15-minute snapshot publishing. The plugin directory on GitHub is pipeline-generated, not a hand-curated list; verdicts are exposed through a schema-stable interface (`dsh-radar/v1`) that plugin marketplaces and community lists consume directly. Reached GitHub Trending daily #22.
 
 → [Engine source engine/](https://github.com/AdamPlatin123/dsh-plugin-radar/tree/main/engine) · [Architecture doc](https://github.com/AdamPlatin123/dsh-plugin-radar/blob/main/docs/radar/architecture.md) · [Data contracts](https://github.com/AdamPlatin123/dsh-plugin-radar/blob/main/docs/radar/data-contracts.md) · [Data API docs/api.md](https://github.com/AdamPlatin123/dsh-plugin-radar/blob/main/docs/api.md)
 (Discovery/aggregation/rendering/distribution engines are open-sourced; the test engine is on the open-sourcing roadmap — the repo ships CI smoke tests as runnable self-evidence.)
 
-### [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) · ★4,593 · Admin / Core Maintainer · Python/React
+### [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) · ★4,594 · Admin / Core Maintainer · Python/React
 
 **34 merged PRs** spanning terminal security, portable-package update integrity, install recovery, and rendering regressions. Day-to-day responsibilities include code review, issue triage, and compatibility maintenance. Representative fixes are listed under *Representative Upstream Contributions* below. Reached GitHub Trending (React) daily #7.
 
 
-### [Open-Deep-Research-workflow-on-Dify](https://github.com/AdamPlatin123/Open-Deep-Research-workflow-on-Dify) · ★323 · Owner · YAML
+### [Open-Deep-Research-workflow-on-Dify](https://github.com/AdamPlatin123/Open-Deep-Research-workflow-on-Dify) · ★320 · Owner · YAML
 
 Deep-research workflow on Dify: multi-source retrieval → outline → cited research report. Included with attribution in [Awesome-Dify-Workflow (10.8k★)](https://github.com/svcvit/Awesome-Dify-Workflow): [inclusion commit](https://github.com/svcvit/Awesome-Dify-Workflow/commit/565ad61a6dcb564a158ddb420a47e058af9468a0).
 
@@ -86,7 +86,7 @@ Full list in [AWARDS.md](AWARDS.md).
 <details>
 <summary><b>More projects & timeline</b></summary>
 
-**Ecosystem tooling**: [dsh-zcf](https://github.com/AdamPlatin123/dsh-zcf) (one-command zero-config DSH setup wizard, published on npm — 8,500+ cumulative downloads) · [dsh-tonghuashun](https://github.com/AdamPlatin123/dsh-tonghuashun) (Tonghuashun-terminal-style client skin built on the official cordis.patch.yml mechanism)
+**Ecosystem tooling**: [dsh-zcf](https://github.com/AdamPlatin123/dsh-zcf) (one-command zero-config DSH setup wizard, published on npm — 9,742+ cumulative downloads) · [dsh-tonghuashun](https://github.com/AdamPlatin123/dsh-tonghuashun) (Tonghuashun-terminal-style client skin built on the official cordis.patch.yml mechanism)
 
 **Experiments & fun**: [gomoku_rl_demo](https://github.com/AdamPlatin123/gomoku_rl_demo) (AlphaZero Gomoku: residual policy-value net + MCTS + live self-play visualization) · [Legacycode-win3.2](https://github.com/AdamPlatin123/Legacycode-win3.2) (QEMU virtual serial + Python bridge, letting Claude live inside Chinese Windows 3.2 from 1994) · [Docling-webui](https://github.com/AdamPlatin123/Docling-webui) / [Faster-Whisper-WebUI](https://github.com/AdamPlatin123/Faster-Whisper-WebUI) (out-of-the-box document-parsing & speech-to-text web UIs)
 
@@ -95,9 +95,9 @@ Full list in [AWARDS.md](AWARDS.md).
 **Timeline**
 
 - 2023-12 Joined GitHub · 2024 Dify / FastGPT ecosystem workflows
-- 2025-02 Open-Deep-Research-workflow-on-Dify (323★)
+- 2025-02 Open-Deep-Research-workflow-on-Dify (320★)
 - 2026 BioHermes · gomoku_rl_demo · Legacycode-win3.2
-- 2026-08 dsh-plugin-radar (1,464★) · dsh-TUI (3,131★, 34 merged PRs, Admin) · dsh-zcf (8,500+ downloads) · dsh-tonghuashun
+- 2026-08 dsh-plugin-radar (1,474★) · dsh-TUI (4,594★, 34 merged PRs, Admin) · dsh-zcf (9,742+ downloads) · dsh-tonghuashun
 
 </details>
 
