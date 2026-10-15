@@ -18,7 +18,7 @@ Independently built **verification pipeline for the DeepSeek Harness plugin ecos
 → [Engine source engine/](https://github.com/AdamPlatin123/dsh-plugin-radar/tree/main/engine) · [Architecture doc](https://github.com/AdamPlatin123/dsh-plugin-radar/blob/main/docs/radar/architecture.md) · [Data contracts](https://github.com/AdamPlatin123/dsh-plugin-radar/blob/main/docs/radar/data-contracts.md) · [Data API docs/api.md](https://github.com/AdamPlatin123/dsh-plugin-radar/blob/main/docs/api.md)
 (Discovery/aggregation/rendering/distribution engines are open-sourced; the test engine is on the open-sourcing roadmap — the repo ships CI smoke tests as runnable self-evidence.)
 
-### [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) · ★4,594 · Admin / Core Maintainer · Python/React
+### [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) · ★4,597 · Admin / Core Maintainer · Python/React
 
 **34 merged PRs** spanning terminal security, portable-package update integrity, install recovery, and rendering regressions. Day-to-day responsibilities include code review, issue triage, and compatibility maintenance. Representative fixes are listed under *Representative Upstream Contributions* below. Reached GitHub Trending (React) daily #7.
 
@@ -97,7 +97,7 @@ Full list in [AWARDS.md](AWARDS.md).
 - 2023-12 Joined GitHub · 2024 Dify / FastGPT ecosystem workflows
 - 2025-02 Open-Deep-Research-workflow-on-Dify (320★)
 - 2026 BioHermes · gomoku_rl_demo · Legacycode-win3.2
-- 2026-08 dsh-plugin-radar (1,474★) · dsh-TUI (4,594★, 34 merged PRs, Admin) · dsh-zcf (9,742+ downloads) · dsh-tonghuashun
+- 2026-08 dsh-plugin-radar (1,474★) · dsh-TUI (4,597★, 34 merged PRs, Admin) · dsh-zcf (9,742+ downloads) · dsh-tonghuashun
 
 </details>
 
